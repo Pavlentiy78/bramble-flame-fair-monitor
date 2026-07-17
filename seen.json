@@ -1,4 +1,139 @@
 {
+  "002b863d284acf340cc1e392f0fd7c54a247a4e630fa4c6642f4b3ef6f76e144": {
+    "county": "North Yorkshire",
+    "date": "02/08/2026",
+    "id": "002b863d284acf340cc1e392f0fd7c54a247a4e630fa4c6642f4b3ef6f76e144",
+    "name": "Richmond Artisan Fairs",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/richmond-artisan-fairs-57040-event",
+    "venue": "Town Hall Richmond"
+  },
+  "00f2bacba59e8cdf681a99fb9bd45fea8201680687aa807be23acd0a03b6b7a0": {
+    "county": "North Yorkshire",
+    "date": "20/11/2026",
+    "id": "00f2bacba59e8cdf681a99fb9bd45fea8201680687aa807be23acd0a03b6b7a0",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-57144-event",
+    "venue": "Belfrey Hall"
+  },
+  "0252f87bcaec2017c43fdd654a815e15f0c19c146c7b432379cbc08de22b56ff": {
+    "county": "North Yorkshire",
+    "date": "05-09-2026 to 06-09-2026",
+    "id": "0252f87bcaec2017c43fdd654a815e15f0c19c146c7b432379cbc08de22b56ff",
+    "name": "Yorkraft Genuine Craft Fair at Helmsley Town Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/yorkraft-genuine-craft-fair-at-helmsley-town-hall-117994/257905/",
+    "venue": "Helmsley Town Hall"
+  },
+  "02d601268663447e32626cb027f0b65eedfbf19f5f472acd540e026b4ad0486a": {
+    "county": "Staffordshire",
+    "date": "15-10-2026",
+    "id": "02d601268663447e32626cb027f0b65eedfbf19f5f472acd540e026b4ad0486a",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259274/",
+    "venue": "Rugeley Town Centre"
+  },
+  "0555d481c56b2bbcd7632696f81d52a6a72a3ecd99165887d8f00a9fd35c4aba": {
+    "county": "Staffordshire",
+    "date": "28-11-2026",
+    "id": "0555d481c56b2bbcd7632696f81d52a6a72a3ecd99165887d8f00a9fd35c4aba",
+    "name": "Busy Bees Burton Christmas Fayre",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/busy-bees-burton-christmas-fayre-119154/261673/",
+    "venue": "Busy Bees Burton"
+  },
+  "05aa0ff02b25bd5d9a6fbc0dbcc571b36ead52d36b99e94dd12d0bb4e32b2d55": {
+    "county": "Staffordshire",
+    "date": "05-11-2026",
+    "id": "05aa0ff02b25bd5d9a6fbc0dbcc571b36ead52d36b99e94dd12d0bb4e32b2d55",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259277/",
+    "venue": "Rugeley Town Centre"
+  },
+  "065e1b76bcf81e474117e907761e5163788641ec2f259f67f4e6912ab80c5aed": {
+    "county": "Derbyshire",
+    "date": "29-11-2026",
+    "id": "065e1b76bcf81e474117e907761e5163788641ec2f259f67f4e6912ab80c5aed",
+    "name": "Chesterfield Artisan Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/chesterfield-artisan-market/259851/",
+    "venue": "Chesterfield"
+  },
+  "085c0ce020d4f4ef84056cc77c587824cc976f38ea6261f5c733c73a6fa67ed4": {
+    "county": "Staffordshire",
+    "date": "13-09-2026",
+    "id": "085c0ce020d4f4ef84056cc77c587824cc976f38ea6261f5c733c73a6fa67ed4",
+    "name": "Barton Marina Vegan Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/barton-marina-vegan-market/257473/",
+    "venue": "Barton Marina"
+  },
+  "089d77853ddd8f37bff2d0cbc5f325bb32bbfc334701a225c0805c7adf892f92": {
+    "county": "North Yorkshire",
+    "date": "10/10/2026",
+    "id": "089d77853ddd8f37bff2d0cbc5f325bb32bbfc334701a225c0805c7adf892f92",
+    "name": "Craft Fair",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/craft-fair-56989-event",
+    "venue": "Event Center Hall 2"
+  },
+  "0923461938f2987a7ae64f318b47ac6dd9d9fbedd6d6d342650999ec208ab092": {
+    "county": "Staffordshire",
+    "date": "22-08-2026",
+    "id": "0923461938f2987a7ae64f318b47ac6dd9d9fbedd6d6d342650999ec208ab092",
+    "name": "Monthly Craft & Produce Market at Uttoxeter Town Hall",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/monthly-craft-produce-market-at-uttoxeter-town-hall/257345/",
+    "venue": "Uttoxeter Town Hall"
+  },
+  "09d9dd219477fd4599f428f646509c9d250fe8d7944ca50efa03c60a75a636d6": {
+    "county": "North Yorkshire",
+    "date": "29-08-2026 to 31-08-2026",
+    "id": "09d9dd219477fd4599f428f646509c9d250fe8d7944ca50efa03c60a75a636d6",
+    "name": "August Bank Holiday Craft Fair in Hawes",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/august-bank-holiday-craft-fair-in-hawes/257935/",
+    "venue": "The Market House"
+  },
+  "0a10ed0580b43f00efc7ae7c7667db0d76fc27a92eec53e803a5d0c532fc9de4": {
+    "county": "North Yorkshire",
+    "date": "29/08/2026",
+    "id": "0a10ed0580b43f00efc7ae7c7667db0d76fc27a92eec53e803a5d0c532fc9de4",
+    "name": "York City Centre - Artisan Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-city-centre-_-artisan-gift-&-craft-fair~market-56264-event",
+    "venue": "Belfrey Hall"
+  },
+  "0a215506c8d16e24abe1ded26546f8040e582a79632d13fc80cd308d62f30c1c": {
+    "county": "Staffordshire",
+    "date": "15-12-2026",
+    "id": "0a215506c8d16e24abe1ded26546f8040e582a79632d13fc80cd308d62f30c1c",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261288/",
+    "venue": "Tamworth Town Centre"
+  },
+  "0a7622529dfb04081b358a0c05ae206b99439731f2fed48bb2c290b5cd65e985": {
+    "county": "Derbyshire",
+    "date": "10-10-2026 to 11-10-2026",
+    "id": "0a7622529dfb04081b358a0c05ae206b99439731f2fed48bb2c290b5cd65e985",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258237/",
+    "venue": "Bakewell Town Hall"
+  },
+  "0a946defd207a484fec7f4f5cdd1e73c6d19bb4b905d1cb8725dc22971180fe4": {
+    "county": "Staffordshire",
+    "date": "28-11-2026",
+    "id": "0a946defd207a484fec7f4f5cdd1e73c6d19bb4b905d1cb8725dc22971180fe4",
+    "name": "Monthly Craft & Produce Market at Uttoxeter Town Hall",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/monthly-craft-produce-market-at-uttoxeter-town-hall/257348/",
+    "venue": "Uttoxeter Town Hall"
+  },
   "0a95c71ac0be89101437c5f62183c2775a6ec3036c7e87849bcb7b1661d1de85": {
     "county": "Derbyshire",
     "date": "04-09-2026 to 06-09-2026",
@@ -7,6 +142,132 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/chatsworth-country-show/258421/",
     "venue": "Chatsworth House"
+  },
+  "0db847589038d70dd1b956208bff3f65bb96ef13c33c219a929abf3b75104e7f": {
+    "county": "Staffordshire",
+    "date": "09-08-2026",
+    "id": "0db847589038d70dd1b956208bff3f65bb96ef13c33c219a929abf3b75104e7f",
+    "name": "Party in the Park",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/party-in-the-park-118708/260383/",
+    "venue": "Tean Road Recreation Ground"
+  },
+  "0e633167ccfcb21847e096730dd4e4400f6de0e40b27a89891d794257698a814": {
+    "county": "North Yorkshire",
+    "date": "06/12/2026",
+    "id": "0e633167ccfcb21847e096730dd4e4400f6de0e40b27a89891d794257698a814",
+    "name": "Richmond Artisan Fairs",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/richmond-artisan-fairs-57046-event",
+    "venue": "Town Hall Richmond"
+  },
+  "0e7f7fbe83dcb635ef65e5fc6c988e0348d23a9799f0f7ef132fe3f3017c8761": {
+    "county": "Derbyshire",
+    "date": "29-11-2026",
+    "id": "0e7f7fbe83dcb635ef65e5fc6c988e0348d23a9799f0f7ef132fe3f3017c8761",
+    "name": "Christmas Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/christmas-market-118384/259100/",
+    "venue": "The Farmhouse at Mackworth"
+  },
+  "0f0c5ea079da924957fa81c215578fc72607ffe7239fd4a47fb87bbb6c792acd": {
+    "county": "North Yorkshire",
+    "date": "11-09-2026 to 13-09-2026",
+    "id": "0f0c5ea079da924957fa81c215578fc72607ffe7239fd4a47fb87bbb6c792acd",
+    "name": "Harrogate Chilli Hop Cider Festival",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/harrogate-chilli-hop-cider-festival/260617/",
+    "venue": "Valley Gardens"
+  },
+  "0ff605fe1a97e35c6f31362e8129d3b394b876014748c5afec31b6b0ea704931": {
+    "county": "Derbyshire",
+    "date": "31-10-2026 to 01-11-2026",
+    "id": "0ff605fe1a97e35c6f31362e8129d3b394b876014748c5afec31b6b0ea704931",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260938/",
+    "venue": "Brigade Hall"
+  },
+  "11ea9a1b1a9be1368c511d5ae3189c7915f057b2731bba72369b23597ca87444": {
+    "county": "North Yorkshire",
+    "date": "08-08-2026 to 09-08-2026",
+    "id": "11ea9a1b1a9be1368c511d5ae3189c7915f057b2731bba72369b23597ca87444",
+    "name": "Early August Craft Fair in Hawes",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/early-august-craft-fair-in-hawes/257934/",
+    "venue": "The Market House"
+  },
+  "1437889fd8e48744034720f3a302706dfde35d249d922b4754d7b01efe294ee7": {
+    "county": "Staffordshire",
+    "date": "19/07/2026",
+    "id": "1437889fd8e48744034720f3a302706dfde35d249d922b4754d7b01efe294ee7",
+    "name": "Barton Marina Vegan Market",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/barton-marina-vegan-market-56618-event",
+    "venue": "Barton Marina"
+  },
+  "14a034d1624db519347c3778e67555b29d0a20e8dc0c12ed986c5e9b3fb4b647": {
+    "county": "North Yorkshire",
+    "date": "13-09-2026",
+    "id": "14a034d1624db519347c3778e67555b29d0a20e8dc0c12ed986c5e9b3fb4b647",
+    "name": "Sheriff Hutton Village Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/sheriff-hutton-village-market/259624/",
+    "venue": "Sheriff Hutton Village Hall"
+  },
+  "18d3fa7080dda625f6dbe21cfb40954ad96ac5d67317d81e844823dfb9810cd5": {
+    "county": "Staffordshire",
+    "date": "28/11/2026",
+    "id": "18d3fa7080dda625f6dbe21cfb40954ad96ac5d67317d81e844823dfb9810cd5",
+    "name": "Barton Marian Artisan Market",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/barton-marian-artisan-market-56615-event",
+    "venue": "Barton Marina"
+  },
+  "1a1e90c3ab23201ce8e6205cb59141c3a6f521f25584c67d97abb84d10fa7352": {
+    "county": "North Yorkshire",
+    "date": "31/10/2026",
+    "id": "1a1e90c3ab23201ce8e6205cb59141c3a6f521f25584c67d97abb84d10fa7352",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56269-event",
+    "venue": "Belfrey Hall"
+  },
+  "1a553677f5daa603e6db2b2cea6d89c6720564ab3f20c5347fff05feca7464c2": {
+    "county": "Staffordshire",
+    "date": "26-11-2026",
+    "id": "1a553677f5daa603e6db2b2cea6d89c6720564ab3f20c5347fff05feca7464c2",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259280/",
+    "venue": "Rugeley Town Centre"
+  },
+  "1ae0acc741758713aab9c8f13709f1b89c9df3054fe2f58d782592516c5e9f18": {
+    "county": "Derbyshire",
+    "date": "22-08-2026 to 23-08-2026",
+    "id": "1ae0acc741758713aab9c8f13709f1b89c9df3054fe2f58d782592516c5e9f18",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260930/",
+    "venue": "Brigade Hall"
+  },
+  "1ce0bb6743ccf8b0ca3e614a658ad932c6524087f3c58a3c9281abb38dbb5aac": {
+    "county": "North Yorkshire",
+    "date": "01/11/2026",
+    "id": "1ce0bb6743ccf8b0ca3e614a658ad932c6524087f3c58a3c9281abb38dbb5aac",
+    "name": "Antique & Collectables Fayre .Hutton Rudby",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/antique-&-collectables-fayre-hutton-rudby-57401-event",
+    "venue": "Hutton Rudby Village Hall"
+  },
+  "1ce7d9e460d23a64fd9d61f6969f8b63fb65b6ef5487fd899c5fa1d1ad7679ac": {
+    "county": "Staffordshire",
+    "date": "26-09-2026",
+    "id": "1ce7d9e460d23a64fd9d61f6969f8b63fb65b6ef5487fd899c5fa1d1ad7679ac",
+    "name": "Lichfield Gift & Craft Fair",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/lichfield-gift-craft-fair-117972/257763/",
+    "venue": "Lichfield Guildhall"
   },
   "1d0d4b9acd823bc84b833b475c781cda383aa42d7b9150c5eb4f78ae1d2367b5": {
     "county": "Derbyshire",
@@ -26,6 +287,69 @@
     "url": "https://www.stallfinder.com/event/willington-carnival/260155/",
     "venue": "Twyford Road Playing Fields"
   },
+  "20f3876f455b15b66f24e606e65cca09dbe76a71e9aa716fc912ffe1dff7eeb6": {
+    "county": "Derbyshire",
+    "date": "21-11-2026 to 22-11-2026",
+    "id": "20f3876f455b15b66f24e606e65cca09dbe76a71e9aa716fc912ffe1dff7eeb6",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258241/",
+    "venue": "Bakewell Town Hall"
+  },
+  "2216c240f9fa751219e794e9a575b6408da44aa482dbf369954ab01115c79556": {
+    "county": "Staffordshire",
+    "date": "10-10-2026",
+    "id": "2216c240f9fa751219e794e9a575b6408da44aa482dbf369954ab01115c79556",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260776/",
+    "venue": "Tamworth Town Centre"
+  },
+  "23c8b1a3ff4100363d2a7a19c9390ea7c34c8a2076ef08a0f0a7d91f3633422d": {
+    "county": "North Yorkshire",
+    "date": "08-08-2026 to 09-08-2026",
+    "id": "23c8b1a3ff4100363d2a7a19c9390ea7c34c8a2076ef08a0f0a7d91f3633422d",
+    "name": "Yorkraft Genuine Craft Fair at Helmsley Town Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/yorkraft-genuine-craft-fair-at-helmsley-town-hall-117994/257904/",
+    "venue": "Helmsley Town Hall"
+  },
+  "24630cb480ba435c432797defffdcd56354719a31f22147a433ea884afd3a59b": {
+    "county": "Derbyshire",
+    "date": "17-10-2026 to 18-10-2026",
+    "id": "24630cb480ba435c432797defffdcd56354719a31f22147a433ea884afd3a59b",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260937/",
+    "venue": "Brigade Hall"
+  },
+  "24e12c70da85135257be29ba931132930d8fbf8ae682d4bb787b55b2dbd35e66": {
+    "county": "South Yorkshire",
+    "date": "15/08/2026 to 16/08/2026",
+    "id": "24e12c70da85135257be29ba931132930d8fbf8ae682d4bb787b55b2dbd35e66",
+    "name": "Wentworth Woodhouse Food and Drink Festival",
+    "source": "Stall & Craft Collective - South Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/wentworth-woodhouse-food-and-drink-festival-52817-event",
+    "venue": "Wentworth Woodhouse"
+  },
+  "26253d618ddbe88a3920116ef19489394cfad448e1b4371ed522100914ba6721": {
+    "county": "Derbyshire",
+    "date": "05-09-2026 to 06-09-2026",
+    "id": "26253d618ddbe88a3920116ef19489394cfad448e1b4371ed522100914ba6721",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260931/",
+    "venue": "Brigade Hall"
+  },
+  "2647ce087b10db96d591ad3aa943b1ef15b3fd2b84ffac0079e3d4531b11346d": {
+    "county": "North Yorkshire",
+    "date": "16-08-2026",
+    "id": "2647ce087b10db96d591ad3aa943b1ef15b3fd2b84ffac0079e3d4531b11346d",
+    "name": "Sheriff Hutton Village Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/sheriff-hutton-village-market/259623/",
+    "venue": "Sheriff Hutton Village Hall"
+  },
   "282967d8740d3a7a4e0a34d36b15de1ceb4b550d7eef25bc4744db082d29b9a8": {
     "county": "Derbyshire",
     "date": "15-08-2026",
@@ -34,6 +358,51 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/buxton-markets-cic-special-food-and-drink-market/259686/",
     "venue": "Buxton Markets"
+  },
+  "2841d487144f52d388ad2e065f0c3126aff2db5954f44c29041a458aad617509": {
+    "county": "Derbyshire",
+    "date": "19-12-2026",
+    "id": "2841d487144f52d388ad2e065f0c3126aff2db5954f44c29041a458aad617509",
+    "name": "Buxton Markets CIC Special Food and Drink Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/buxton-markets-cic-special-food-and-drink-market/259690/",
+    "venue": "Buxton Markets"
+  },
+  "2a06986dfa3bf91a4ac7caf5c523deabb936bcca6d9a15298e816059d72bb6ef": {
+    "county": "Staffordshire",
+    "date": "14-11-2026",
+    "id": "2a06986dfa3bf91a4ac7caf5c523deabb936bcca6d9a15298e816059d72bb6ef",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261280/",
+    "venue": "Tamworth Town Centre"
+  },
+  "2b20c3e83e812de808c165ecedb5e72ccb64f33c448396fea3014c03984a69a6": {
+    "county": "North Yorkshire",
+    "date": "22-08-2026",
+    "id": "2b20c3e83e812de808c165ecedb5e72ccb64f33c448396fea3014c03984a69a6",
+    "name": "Saltburn Vintage Fair",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/saltburn-vintage-fair-119067/261417/",
+    "venue": "Saltburn Arts Community Hall"
+  },
+  "2b49992fc2e536e38323647a967eda0dfbd34a943912bb5a1a3222dbac4d1a9b": {
+    "county": "Staffordshire",
+    "date": "21-11-2026",
+    "id": "2b49992fc2e536e38323647a967eda0dfbd34a943912bb5a1a3222dbac4d1a9b",
+    "name": "Christmas Lights Switch-On",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/christmas-lights-switchon/260947/",
+    "venue": "Cheadle High Street"
+  },
+  "2bbbc3252d7727f5582da4cfb310f8b93d29f59bf182cb8c113a14e72477de3b": {
+    "county": "North Yorkshire",
+    "date": "20-11-2026",
+    "id": "2bbbc3252d7727f5582da4cfb310f8b93d29f59bf182cb8c113a14e72477de3b",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/259863/",
+    "venue": "Belfrey Hall"
   },
   "2cbd19bda7dd7543533a9abdc32c711ad98eeaa68495e19cb562e6d9b0c0d49f": {
     "county": "Derbyshire",
@@ -44,6 +413,69 @@
     "url": "https://www.stallfinder.com/event/swadlincote-charity-family-fun-day-2026/258337/",
     "venue": "Gresley Old Hall"
   },
+  "2dd56f05008393e03c431ef0bcc7a6e421d93d843f6bf39657a624d76417bfd7": {
+    "county": "Staffordshire",
+    "date": "18-08-2026",
+    "id": "2dd56f05008393e03c431ef0bcc7a6e421d93d843f6bf39657a624d76417bfd7",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260761/",
+    "venue": "Tamworth Town Centre"
+  },
+  "2e4be3a0e17ac342fb35a2c7e2685f5ef0db7475a597646d2354ebe7d37c4a0b": {
+    "county": "North Yorkshire",
+    "date": "07-08-2026 to 09-08-2026",
+    "id": "2e4be3a0e17ac342fb35a2c7e2685f5ef0db7475a597646d2354ebe7d37c4a0b",
+    "name": "Skipton Summer FEASTival",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/skipton-summer-feastival/260251/",
+    "venue": "Aireville Park"
+  },
+  "2fd31c5016b7b17646cc492ebbfd47f9bab5a37f2a72ff8488dfc8be106f832e": {
+    "county": "Staffordshire",
+    "date": "24-07-2026",
+    "id": "2fd31c5016b7b17646cc492ebbfd47f9bab5a37f2a72ff8488dfc8be106f832e",
+    "name": "Friday Trestle Market - Leek",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/friday-trestle-market-leek/261158/",
+    "venue": "Leek Trestle Market"
+  },
+  "3048e9bd55e7620be4c3189fb672a2ccc03597eb69546d76f4384736c0af87b3": {
+    "county": "North Yorkshire",
+    "date": "21/11/2026",
+    "id": "3048e9bd55e7620be4c3189fb672a2ccc03597eb69546d76f4384736c0af87b3",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56272-event",
+    "venue": "Belfrey Hall"
+  },
+  "30811729cc3d685b41caa2b9b1c9ecd54b6ffe48894bff9dea54ff23ad384e7f": {
+    "county": "Derbyshire",
+    "date": "29-08-2026 to 31-08-2026",
+    "id": "30811729cc3d685b41caa2b9b1c9ecd54b6ffe48894bff9dea54ff23ad384e7f",
+    "name": "The Bakewell August Bank Hols - Craft & Gift Fair ~ Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-august-bank-hols-craft-gift-fair-est-1991/261510/",
+    "venue": "Brigade Hall & Medway Centre"
+  },
+  "309b85d63f709b1c9fdafec85e073e1851486154495f125360b1ee6958afaa36": {
+    "county": "North Yorkshire",
+    "date": "29-11-2026",
+    "id": "309b85d63f709b1c9fdafec85e073e1851486154495f125360b1ee6958afaa36",
+    "name": "Quality Craft Fair By Richmond Artisan Fairs",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/quality-craft-fair-by-richmond-artisan-fairs-116306/258993/",
+    "venue": "Richmond Town Hall"
+  },
+  "31bd9239d40a68b405d63a53f7db989df75c8ec882f78f1eb211c822d3fc7bdc": {
+    "county": "Staffordshire",
+    "date": "25-08-2026",
+    "id": "31bd9239d40a68b405d63a53f7db989df75c8ec882f78f1eb211c822d3fc7bdc",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260763/",
+    "venue": "Tamworth Town Centre"
+  },
   "346b836710643fdf39e6ae86cd476ce2b48b5f5a0b28d05bda56bee5a8cca531": {
     "county": "Derbyshire",
     "date": "01-08-2026",
@@ -52,6 +484,33 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/craft-quirky-vintage-market/259590/",
     "venue": "Buxton Markets"
+  },
+  "350c5547423f08c5f61a3cfee3e48af8ce57227ed8037b219ba4818e53875dff": {
+    "county": "Staffordshire",
+    "date": "12-11-2026",
+    "id": "350c5547423f08c5f61a3cfee3e48af8ce57227ed8037b219ba4818e53875dff",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259278/",
+    "venue": "Rugeley Town Centre"
+  },
+  "36023a91ee43750297c40dcab623cff9351dff694ddc08bd05363fb5d12728c3": {
+    "county": "Staffordshire",
+    "date": "13-09-2026",
+    "id": "36023a91ee43750297c40dcab623cff9351dff694ddc08bd05363fb5d12728c3",
+    "name": "Burntwood Produce & Craft Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/burntwood-produce-craft-market/259635/",
+    "venue": "Burntwood"
+  },
+  "36774de681632253961d13212ddd7e72f2e75f35fb50f960aad45cb7195b8e30": {
+    "county": "Staffordshire",
+    "date": "03-09-2026",
+    "id": "36774de681632253961d13212ddd7e72f2e75f35fb50f960aad45cb7195b8e30",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259268/",
+    "venue": "Rugeley Town Centre"
   },
   "370b026b8f4dbfb5c6df1b050fad12f8979cfc0476994bc1260eff3f0954f4c2": {
     "county": "Derbyshire",
@@ -62,6 +521,132 @@
     "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260929/",
     "venue": "Brigade Hall"
   },
+  "371641b0cf191b39b0cbf29224df2bc54fc5326968a658c4acff34707dd40dc9": {
+    "county": "Derbyshire",
+    "date": "21-11-2026",
+    "id": "371641b0cf191b39b0cbf29224df2bc54fc5326968a658c4acff34707dd40dc9",
+    "name": "Buxton Markets CIC Special Food and Drink Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/buxton-markets-cic-special-food-and-drink-market/259689/",
+    "venue": "Buxton Markets"
+  },
+  "39c9c7290514ecbbb212d6f07e81544102f5173dc49a2fecd6dee7ee07f3dbd3": {
+    "county": "North Yorkshire",
+    "date": "17/10/2026",
+    "id": "39c9c7290514ecbbb212d6f07e81544102f5173dc49a2fecd6dee7ee07f3dbd3",
+    "name": "York City Centre - Artisan Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-city-centre-_-artisan-gift-&-craft-fair~market-56268-event",
+    "venue": "Belfrey Hall"
+  },
+  "3a8d2cbeef394168fa7f4755eaafd0ffd61e14f67a1eec85c1e1c2ae66480e80": {
+    "county": "North Yorkshire",
+    "date": "22-11-2026",
+    "id": "3a8d2cbeef394168fa7f4755eaafd0ffd61e14f67a1eec85c1e1c2ae66480e80",
+    "name": "Husthwaite Village Christmas Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/husthwaite-village-christmas-market-117930/257573/",
+    "venue": "Husthwaite Village Hall"
+  },
+  "3a9646b403e4e63d22ae4692364bcc1c032cc6471f4202f8fa69ab5fd54e6610": {
+    "county": "Staffordshire",
+    "date": "17-07-2026",
+    "id": "3a9646b403e4e63d22ae4692364bcc1c032cc6471f4202f8fa69ab5fd54e6610",
+    "name": "Friday Trestle Market - Leek",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/friday-trestle-market-leek/261157/",
+    "venue": "Leek Trestle Market"
+  },
+  "3b6498e6c92e7823da097046dc77af30255a2e292edf9aed52d750ccb279a75c": {
+    "county": "North Yorkshire",
+    "date": "17-10-2026 to 18-10-2026",
+    "id": "3b6498e6c92e7823da097046dc77af30255a2e292edf9aed52d750ccb279a75c",
+    "name": "Lost Soul Paracon York 2026",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/lost-soul-paracon-york-2026/256567/",
+    "venue": "Milner Hotel, York"
+  },
+  "3ba401b87d286c1b5d6e01b098ca52b81e71ba97d4d2f02e2f12ddc9db4380cb": {
+    "county": "North Yorkshire",
+    "date": "14-07-2026 to 17-07-2026",
+    "id": "3ba401b87d286c1b5d6e01b098ca52b81e71ba97d4d2f02e2f12ddc9db4380cb",
+    "name": "The Great Yorkshire Show",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/the-great-yorkshire-show/258426/",
+    "venue": "Yorkshire Showground"
+  },
+  "3d343e8646b07cd1765c63467d716a77f274e304e8566e2685697ffe97dfe50c": {
+    "county": "Staffordshire",
+    "date": "28-11-2026",
+    "id": "3d343e8646b07cd1765c63467d716a77f274e304e8566e2685697ffe97dfe50c",
+    "name": "Lichfield Gift & Craft Festive Fair",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/lichfield-gift-craft-festive-fair-117975/257770/",
+    "venue": "Lichfield Guildhall"
+  },
+  "3d5279b6bd97a8c0a180d61b07efa27256928844be4c271bbac704f9afac02cc": {
+    "county": "North Yorkshire",
+    "date": "09-10-2026 to 11-10-2026",
+    "id": "3d5279b6bd97a8c0a180d61b07efa27256928844be4c271bbac704f9afac02cc",
+    "name": "Malton October FEASTival",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/malton-october-feastival/260252/",
+    "venue": "Market Place"
+  },
+  "3dc4b4922f838c487d1b48f22cb5ade1a29f7647782a1ccfa1a8eab1943fb6e6": {
+    "county": "Staffordshire",
+    "date": "19-09-2026",
+    "id": "3dc4b4922f838c487d1b48f22cb5ade1a29f7647782a1ccfa1a8eab1943fb6e6",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260770/",
+    "venue": "Tamworth Town Centre"
+  },
+  "40551f5156f09ba6cf377ecf16f65d8dd5f5d446146a0edff8b69b05cc4d7a26": {
+    "county": "North Yorkshire",
+    "date": "01/11/2026",
+    "id": "40551f5156f09ba6cf377ecf16f65d8dd5f5d446146a0edff8b69b05cc4d7a26",
+    "name": "Richmond Artisan Fairs",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/richmond-artisan-fairs-57043-event",
+    "venue": "Town Hall Richmond"
+  },
+  "40813522b1145ba519c90e81a4868365159be585fdde49c3915afe204ec61a07": {
+    "county": "North Yorkshire",
+    "date": "19-07-2026",
+    "id": "40813522b1145ba519c90e81a4868365159be585fdde49c3915afe204ec61a07",
+    "name": "Sheriff Hutton Village Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/sheriff-hutton-village-market/259622/",
+    "venue": "Sheriff Hutton Village Hall"
+  },
+  "40d96f64f015218056a0a3f345d6a544d79d5da37bead06f1f810385bda0cdb2": {
+    "county": "Staffordshire",
+    "date": "22-11-2026",
+    "id": "40d96f64f015218056a0a3f345d6a544d79d5da37bead06f1f810385bda0cdb2",
+    "name": "Barton Marina Vegan Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/barton-marina-vegan-market/257475/",
+    "venue": "Barton Marina"
+  },
+  "41a7fe41fd1307e7298d63784d35b2b9ede5eb78b0afeeb622b84bc036521bb8": {
+    "county": "Derbyshire",
+    "date": "05-12-2026 to 06-12-2026",
+    "id": "41a7fe41fd1307e7298d63784d35b2b9ede5eb78b0afeeb622b84bc036521bb8",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258242/",
+    "venue": "Bakewell Town Hall"
+  },
+  "421499b2c8c5407aed912676849fd7900b932f47c8a3c3c93afffc108c21be50": {
+    "county": "Staffordshire",
+    "date": "06-09-2026",
+    "id": "421499b2c8c5407aed912676849fd7900b932f47c8a3c3c93afffc108c21be50",
+    "name": "The Dovecliff Hall Wedding Fayre",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/the-dovecliff-hall-wedding-fayre/260325/",
+    "venue": "The Dovecliff Hall Hotel"
+  },
   "4443ed9c8236dcd259da5cbfa36cfbb3b9877c95a419f960080b8edffe6a424d": {
     "county": "Derbyshire",
     "date": "09/08/2026",
@@ -70,6 +655,15 @@
     "source": "Stall & Craft Collective - Derbyshire",
     "url": "https://www.stallandcraftcollective.co.uk/bowshaw-gigantic-festival-2026-57500-event",
     "venue": "Bowshaw Showground"
+  },
+  "44fc9a073dd382ef8d636b40e71a384fe335dc867fae319d81082da8cb692ae7": {
+    "county": "Staffordshire",
+    "date": "19-11-2026",
+    "id": "44fc9a073dd382ef8d636b40e71a384fe335dc867fae319d81082da8cb692ae7",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259279/",
+    "venue": "Rugeley Town Centre"
   },
   "4528d0f0247fa6880a90fab1cf53a019fc2b6ec97ba1b7dda6ee1b80d063b61b": {
     "county": "Derbyshire",
@@ -80,6 +674,60 @@
     "url": "https://www.stallandcraftcollective.co.uk/the-bakewell-craft-&-gift-fair-~-est-1991-~-weekends-57493-event",
     "venue": "Brigade Hall"
   },
+  "457779a70d42f14e34e13fed1130e391d2e20e95fe4367a17fd66805b4814d55": {
+    "county": "North Yorkshire",
+    "date": "16-08-2026",
+    "id": "457779a70d42f14e34e13fed1130e391d2e20e95fe4367a17fd66805b4814d55",
+    "name": "Harrogate Allotment Show 2026",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/harrogate-allotment-show-2026/258216/",
+    "venue": "The Sun Pavillions"
+  },
+  "4751e3317a820dc4d602bb6f59fbc0d439cb5c9d283e723670ed2da217d7c00e": {
+    "county": "North Yorkshire",
+    "date": "31-07-2026 to 02-08-2026",
+    "id": "4751e3317a820dc4d602bb6f59fbc0d439cb5c9d283e723670ed2da217d7c00e",
+    "name": "Selby FEASTival",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/selby-feastival/261050/",
+    "venue": "Selby Park"
+  },
+  "48164b5041a53681c4c075d7fb0a544f8ca1c541d14dd84829a0a6df4b873782": {
+    "county": "Staffordshire",
+    "date": "22/11/2026",
+    "id": "48164b5041a53681c4c075d7fb0a544f8ca1c541d14dd84829a0a6df4b873782",
+    "name": "Barton Marina Vegan Market",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/barton-marina-vegan-market-56620-event",
+    "venue": "Barton Marina"
+  },
+  "486e24d5134ad586942f5aeda6110646ace93ea2ab6303d2ce6fb7cfebe8e88b": {
+    "county": "North Yorkshire",
+    "date": "19-12-2026",
+    "id": "486e24d5134ad586942f5aeda6110646ace93ea2ab6303d2ce6fb7cfebe8e88b",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256177/",
+    "venue": "Belfrey Hall"
+  },
+  "487b45f989f7687ddf38d60bee773284f989485b6333908a4a6a0fd456415b4e": {
+    "county": "Staffordshire",
+    "date": "22-09-2026",
+    "id": "487b45f989f7687ddf38d60bee773284f989485b6333908a4a6a0fd456415b4e",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260771/",
+    "venue": "Tamworth Town Centre"
+  },
+  "4918c2d370882a61b6b0a748f81ec072ec0c14502451d36b1ebab2dc8123dd63": {
+    "county": "Staffordshire",
+    "date": "28-11-2026",
+    "id": "4918c2d370882a61b6b0a748f81ec072ec0c14502451d36b1ebab2dc8123dd63",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261284/",
+    "venue": "Tamworth Town Centre"
+  },
   "496f7b07a2aa91acdef2c95925d94d5a9136ec4db78259016d3d0d35bedaf3c2": {
     "county": "Derbyshire",
     "date": "27-07-2026 to 31-07-2026",
@@ -88,6 +736,42 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/bakewell-craft-gift-fair-open-every-day-for-school-hols/261504/",
     "venue": "Brigade Hall"
+  },
+  "4ad5ced8fe66550cc9c3a648c78e980164a7c2124d9be6e4172472328af8d281": {
+    "county": "Staffordshire",
+    "date": "01-11-2026",
+    "id": "4ad5ced8fe66550cc9c3a648c78e980164a7c2124d9be6e4172472328af8d281",
+    "name": "Norton Canes Community Centre Craft Fayre",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/norton-canes-community-centre-craft-fayre/260476/",
+    "venue": "Norton Canes Community Centre"
+  },
+  "4b530d22caa7740dfc2652d872ffa325b22c1fb97b4914ef3fd1a2efc6733b18": {
+    "county": "Derbyshire",
+    "date": "27-09-2026",
+    "id": "4b530d22caa7740dfc2652d872ffa325b22c1fb97b4914ef3fd1a2efc6733b18",
+    "name": "Ashbourne Artisan Food Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/ashbourne-artisan-food-market/259022/",
+    "venue": "Ashbourne Market Place & Town Hall"
+  },
+  "4f618a6e451219a9bd0d1829e2e7be67dad8c0ab7783d231363afdebb0c2f995": {
+    "county": "North Yorkshire",
+    "date": "13-11-2026",
+    "id": "4f618a6e451219a9bd0d1829e2e7be67dad8c0ab7783d231363afdebb0c2f995",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/259862/",
+    "venue": "Belfrey Hall"
+  },
+  "4f63cae17e267dcd2446841961a022ad592d6c11afab7c53394fad09152e4bf0": {
+    "county": "North Yorkshire",
+    "date": "26-10-2026 to 01-11-2026",
+    "id": "4f63cae17e267dcd2446841961a022ad592d6c11afab7c53394fad09152e4bf0",
+    "name": "Harrogate @ Halloween",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/harrogate-halloween/258436/",
+    "venue": "Crescent Gardens"
   },
   "506783032dc1e3d212520a496e82a42000fa084be76d10f7ec9a345e38fb675b": {
     "county": "Derbyshire",
@@ -98,6 +782,60 @@
     "url": "https://www.stallfinder.com/event/quirky-market-swadlincote/260375/",
     "venue": "Swadlincote High Street"
   },
+  "523b931bce1bc2c79fd1b0ca2ae4087e60470e4f091d7ac46401fb3a64139848": {
+    "county": "Derbyshire",
+    "date": "07-11-2026",
+    "id": "523b931bce1bc2c79fd1b0ca2ae4087e60470e4f091d7ac46401fb3a64139848",
+    "name": "Craft, Quirky, Vintage Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/craft-quirky-vintage-market/259593/",
+    "venue": "Buxton Markets"
+  },
+  "53ea915613266591daa2b11472f9ddea2353700cee25bd97f54bd05d587c3880": {
+    "county": "Staffordshire",
+    "date": "17-12-2026",
+    "id": "53ea915613266591daa2b11472f9ddea2353700cee25bd97f54bd05d587c3880",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259283/",
+    "venue": "Rugeley Town Centre"
+  },
+  "53f07bd2ac67393ea9aec17e2067ac07826e60668d8eadaee80b4df5b44e22eb": {
+    "county": "Staffordshire",
+    "date": "25-07-2026",
+    "id": "53f07bd2ac67393ea9aec17e2067ac07826e60668d8eadaee80b4df5b44e22eb",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260754/",
+    "venue": "Tamworth Town Centre"
+  },
+  "546dbb61726fe9e03e7e090cf8f2b79072311d1e686f13e67c64710e8fd3eec4": {
+    "county": "North Yorkshire",
+    "date": "28/11/2026",
+    "id": "546dbb61726fe9e03e7e090cf8f2b79072311d1e686f13e67c64710e8fd3eec4",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56273-event",
+    "venue": "Belfrey Hall"
+  },
+  "54c9ff01c842e56de1227fcf4ff22429e51c2dc493dbbd0ed5d7756a59d380fc": {
+    "county": "North Yorkshire",
+    "date": "06-12-2026",
+    "id": "54c9ff01c842e56de1227fcf4ff22429e51c2dc493dbbd0ed5d7756a59d380fc",
+    "name": "Quality Craft Fair By Richmond Artisan Fairs",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/quality-craft-fair-by-richmond-artisan-fairs-116306/258994/",
+    "venue": "Richmond Town Hall"
+  },
+  "54f5d715d91398be4bd33c60df2c0e36ee301e48b07d19344be19ffa3b47617a": {
+    "county": "Derbyshire",
+    "date": "01-12-2026 to 24-12-2026",
+    "id": "54f5d715d91398be4bd33c60df2c0e36ee301e48b07d19344be19ffa3b47617a",
+    "name": "Christmas Weekends at High Peak Junction (Derbyshire)",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/christmas-weekends-at-high-peak-junction-derbyshire/261191/",
+    "venue": "High Peak Junction"
+  },
   "562553b1f096026c37dd459387a582bb68b3b7402bf98a1bdbf9fe48d3b9766d": {
     "county": "Derbyshire",
     "date": "18-07-2026",
@@ -106,6 +844,33 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/buxton-markets-cic-special-food-and-drink-market/259685/",
     "venue": "Buxton Markets"
+  },
+  "567bcf879fe53d0d182148e4757731df4da39404648e479d6e045bde72f4fbf3": {
+    "county": "North Yorkshire",
+    "date": "21-11-2026",
+    "id": "567bcf879fe53d0d182148e4757731df4da39404648e479d6e045bde72f4fbf3",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256173/",
+    "venue": "Belfrey Hall"
+  },
+  "5852c22e648fef54ed4975da7421378e83e2c56f0fd01e022f35adcf2e95b038": {
+    "county": "Derbyshire",
+    "date": "24-10-2026 to 25-10-2026",
+    "id": "5852c22e648fef54ed4975da7421378e83e2c56f0fd01e022f35adcf2e95b038",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258238/",
+    "venue": "Bakewell Town Hall"
+  },
+  "59cce0b82285ccfe64a842fe872cb91ddcfe8901c3024c362977d5c371ef9aba": {
+    "county": "North Yorkshire",
+    "date": "08/11/2026",
+    "id": "59cce0b82285ccfe64a842fe872cb91ddcfe8901c3024c362977d5c371ef9aba",
+    "name": "Dolls House & Miniatures Fair",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/dolls-house-&-miniatures-fair-56564-event",
+    "venue": "York Racecourse"
   },
   "5a7255349996e328d3d87551f1f46dcd8e0c065daac2d0bafbb7796db17bfced": {
     "county": "Derbyshire",
@@ -116,6 +881,78 @@
     "url": "https://www.stallandcraftcollective.co.uk/holiday-inn-mansfield-wedding-fayre-55330-event",
     "venue": "Holiday Inn Mansfield"
   },
+  "5ec5231e6b6a6297faf3cf933abf543a1e3de6794b82238bd52d6784498e5cde": {
+    "county": "North Yorkshire",
+    "date": "13-12-2026",
+    "id": "5ec5231e6b6a6297faf3cf933abf543a1e3de6794b82238bd52d6784498e5cde",
+    "name": "Sheriff Hutton Village Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/sheriff-hutton-village-market/259626/",
+    "venue": "Sheriff Hutton Village Hall"
+  },
+  "5f6e2494efff6aadf28e0f9bea83f4c617578f6ffd9ce4d8f752b874f966484a": {
+    "county": "Derbyshire",
+    "date": "05-12-2026",
+    "id": "5f6e2494efff6aadf28e0f9bea83f4c617578f6ffd9ce4d8f752b874f966484a",
+    "name": "Craft, Quirky, Vintage Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/craft-quirky-vintage-market/259594/",
+    "venue": "Buxton Markets"
+  },
+  "600c25cdc0bcb4560b6e3221fcb295f32383e0b79233444ef2f8d0b19a11d362": {
+    "county": "North Yorkshire",
+    "date": "04/12/2026",
+    "id": "600c25cdc0bcb4560b6e3221fcb295f32383e0b79233444ef2f8d0b19a11d362",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-57142-event",
+    "venue": "Belfrey Hall"
+  },
+  "62eefc3d126331dfc1e716b05a39bdeef85e517f22c38ae9594c020b002107be": {
+    "county": "Staffordshire",
+    "date": "25-07-2026",
+    "id": "62eefc3d126331dfc1e716b05a39bdeef85e517f22c38ae9594c020b002107be",
+    "name": "Monthly Craft & Produce Market at Uttoxeter Town Hall",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/monthly-craft-produce-market-at-uttoxeter-town-hall/257344/",
+    "venue": "Uttoxeter Town Hall"
+  },
+  "63360adaeed72e6fc111115cf807c1fad37532f23a08c469752d3784c2333195": {
+    "county": "North Yorkshire",
+    "date": "21-08-2026 to 23-08-2026",
+    "id": "63360adaeed72e6fc111115cf807c1fad37532f23a08c469752d3784c2333195",
+    "name": "Knaresborough Castle",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/knaresborough-castle/258434/",
+    "venue": "Knaresborough Castle"
+  },
+  "643b26c8d5c41417a16f4120977f226b0b08a926d170ad97364da6de7f6d74de": {
+    "county": "Staffordshire",
+    "date": "29-10-2026",
+    "id": "643b26c8d5c41417a16f4120977f226b0b08a926d170ad97364da6de7f6d74de",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259276/",
+    "venue": "Rugeley Town Centre"
+  },
+  "64fb20455c6e4f240923ba612746db2a3aed8c196fab3cb6a4f0cf710110612f": {
+    "county": "Derbyshire",
+    "date": "07-11-2026 to 08-11-2026",
+    "id": "64fb20455c6e4f240923ba612746db2a3aed8c196fab3cb6a4f0cf710110612f",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260939/",
+    "venue": "Brigade Hall"
+  },
+  "650182cdd3e36c77209e8fba342206f436d5b05a70a0e5501f1fb51fca8f4e07": {
+    "county": "Staffordshire",
+    "date": "24-11-2026",
+    "id": "650182cdd3e36c77209e8fba342206f436d5b05a70a0e5501f1fb51fca8f4e07",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261283/",
+    "venue": "Tamworth Town Centre"
+  },
   "65cb7ab207e5cb4f8eb4a2ddb5495281cc64b970f92f9b9db0416cb8465c14fa": {
     "county": "Derbyshire",
     "date": "25-07-2026 to 26-07-2026",
@@ -125,6 +962,60 @@
     "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260927/",
     "venue": "Brigade Hall"
   },
+  "661d52942a51d9dda8997e2a0ee8a939ace72304e9c3dab40e28b6b898e10fcc": {
+    "county": "Derbyshire",
+    "date": "05-09-2026",
+    "id": "661d52942a51d9dda8997e2a0ee8a939ace72304e9c3dab40e28b6b898e10fcc",
+    "name": "Quirky Market Swadlincote",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/quirky-market-swadlincote/260376/",
+    "venue": "Swadlincote High Street"
+  },
+  "662d339a584c10ed25ebaaf2288e7a00619107ea52ef78892617930448def941": {
+    "county": "Staffordshire",
+    "date": "13/09/2026",
+    "id": "662d339a584c10ed25ebaaf2288e7a00619107ea52ef78892617930448def941",
+    "name": "Barton Marina Vegan Market",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/barton-marina-vegan-market-56619-event",
+    "venue": "Barton Marina"
+  },
+  "663530e7ef2dd1b05414b8e213ff4eeaae9a663a7ab9fce5e106f2efb1747be7": {
+    "county": "Staffordshire",
+    "date": "18-10-2026",
+    "id": "663530e7ef2dd1b05414b8e213ff4eeaae9a663a7ab9fce5e106f2efb1747be7",
+    "name": "Barton Marina Artisan Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/barton-marina-artisan-market/257479/",
+    "venue": "Barton Marina"
+  },
+  "664f057a54e2ff3af75dd54e955fa4a65c46854c4cb8209d21098066f9e722c7": {
+    "county": "Derbyshire",
+    "date": "24-08-2026 to 28-08-2026",
+    "id": "664f057a54e2ff3af75dd54e955fa4a65c46854c4cb8209d21098066f9e722c7",
+    "name": "Bakewell Craft & Gift Fair - Open every day for School Hols",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/bakewell-craft-gift-fair-open-every-day-for-school-hols/261508/",
+    "venue": "Brigade Hall"
+  },
+  "665fd1c725c8c0b7767b7d95c772eec436599c26c5cf0d4180e7c388e87cd279": {
+    "county": "Staffordshire",
+    "date": "24-10-2026",
+    "id": "665fd1c725c8c0b7767b7d95c772eec436599c26c5cf0d4180e7c388e87cd279",
+    "name": "Monthly Craft & Produce Market at Uttoxeter Town Hall",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/monthly-craft-produce-market-at-uttoxeter-town-hall/257347/",
+    "venue": "Uttoxeter Town Hall"
+  },
+  "667c590d633b433650e09d2ec16b52a7e531b0822c95f6be434f3f61b6e41f2f": {
+    "county": "Staffordshire",
+    "date": "18-07-2026",
+    "id": "667c590d633b433650e09d2ec16b52a7e531b0822c95f6be434f3f61b6e41f2f",
+    "name": "Burntwood Wakes Festival",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/burntwood-wakes-festival/258581/",
+    "venue": "Burntwood Leisure Centre"
+  },
   "667efba634d042712b991a79c0ce748248822ea88717a7e704da373f24b12615": {
     "county": "Derbyshire",
     "date": "10-08-2026 to 14-08-2026",
@@ -133,6 +1024,267 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/bakewell-craft-gift-fair-open-every-day-for-school-hols/261506/",
     "venue": "Brigade Hall"
+  },
+  "671fc124324eb188c0d3d7671a3eca346f43fed3f4605c4cd9638225eb7080b7": {
+    "county": "Staffordshire",
+    "date": "10-10-2026",
+    "id": "671fc124324eb188c0d3d7671a3eca346f43fed3f4605c4cd9638225eb7080b7",
+    "name": "Preloved for Peculiar People",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/preloved-for-peculiar-people/261554/",
+    "venue": "Littleworth Community Centre"
+  },
+  "6a3ee753752a18d4aa24517103f11273f3fc30b4671848090213a87e739d78e5": {
+    "county": "North Yorkshire",
+    "date": "19-09-2026",
+    "id": "6a3ee753752a18d4aa24517103f11273f3fc30b4671848090213a87e739d78e5",
+    "name": "York City Centre - Artisan Gift & Craft Fair / Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-city-centre-artisan-gift-craft-fair-market-117575/256167/",
+    "venue": "Belfrey Hall"
+  },
+  "6b0aab499414586c45ac26225d348bb8de41e2f7252444e1e2a78c9fc5d82de6": {
+    "county": "Staffordshire",
+    "date": "13-08-2026",
+    "id": "6b0aab499414586c45ac26225d348bb8de41e2f7252444e1e2a78c9fc5d82de6",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259264/",
+    "venue": "Rugeley Town Centre"
+  },
+  "6c13d8c4529142b7b2384eb67fdf23d79f5b21b2ef93583ab2f1898cd2e40508": {
+    "county": "North Yorkshire",
+    "date": "05-09-2026 to 06-09-2026",
+    "id": "6c13d8c4529142b7b2384eb67fdf23d79f5b21b2ef93583ab2f1898cd2e40508",
+    "name": "Dippy Craft Fair Whitby Pavilion",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/dippy-craft-fair-whitby-pavilion-119026/261270/",
+    "venue": "Whitby Pavilion"
+  },
+  "6c3939bcb2f8ccece42179603009e5ac0ba9e196ffe108fef57ee1e15dcee811": {
+    "county": "Staffordshire",
+    "date": "21-11-2026",
+    "id": "6c3939bcb2f8ccece42179603009e5ac0ba9e196ffe108fef57ee1e15dcee811",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261282/",
+    "venue": "Tamworth Town Centre"
+  },
+  "6d4e83262db80aac1fd492ff0e05193f7702a0457caf87a1de82dffc277b2961": {
+    "county": "Staffordshire",
+    "date": "10-11-2026",
+    "id": "6d4e83262db80aac1fd492ff0e05193f7702a0457caf87a1de82dffc277b2961",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261279/",
+    "venue": "Tamworth Town Centre"
+  },
+  "6d4f4665e247122a2c329a2d36cc529a369f35a1affe0ba8a286bf65782f5484": {
+    "county": "Staffordshire",
+    "date": "27-10-2026",
+    "id": "6d4f4665e247122a2c329a2d36cc529a369f35a1affe0ba8a286bf65782f5484",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260781/",
+    "venue": "Tamworth Town Centre"
+  },
+  "6d75f52b89535d481c81eb5631ef1a5de2f3370f7633bf2a2066187c9f10aac6": {
+    "county": "Derbyshire",
+    "date": "20-12-2026",
+    "id": "6d75f52b89535d481c81eb5631ef1a5de2f3370f7633bf2a2066187c9f10aac6",
+    "name": "Chesterfield Artisan Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/chesterfield-artisan-market/259852/",
+    "venue": "Chesterfield"
+  },
+  "70a894029bfe8631a7f493722f83a2f1510abe6d02345f460bc2279bfcccd03e": {
+    "county": "Staffordshire",
+    "date": "29-11-2026",
+    "id": "70a894029bfe8631a7f493722f83a2f1510abe6d02345f460bc2279bfcccd03e",
+    "name": "Barton Marina Artisan Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/barton-marina-artisan-market/257480/",
+    "venue": "Barton Marina"
+  },
+  "70e3edb624ed9b0af157168f5076a794266b34a7e99f8fc065328520e5c079a4": {
+    "county": "Staffordshire",
+    "date": "26-09-2026",
+    "id": "70e3edb624ed9b0af157168f5076a794266b34a7e99f8fc065328520e5c079a4",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260772/",
+    "venue": "Tamworth Town Centre"
+  },
+  "7141dcb3c52fab405e2e168e33e894df5b2ff7b2a50b2930a56b515bf66f3936": {
+    "county": "Staffordshire",
+    "date": "09-08-2026",
+    "id": "7141dcb3c52fab405e2e168e33e894df5b2ff7b2a50b2930a56b515bf66f3936",
+    "name": "Queens Park Carnival",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/queens-park-carnival/260452/",
+    "venue": "Queens Park"
+  },
+  "71b56f1712272d46df3905df3792ea60b3bc6172ae9814aa1f99f3872e2315e4": {
+    "county": "Staffordshire",
+    "date": "11-08-2026",
+    "id": "71b56f1712272d46df3905df3792ea60b3bc6172ae9814aa1f99f3872e2315e4",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260759/",
+    "venue": "Tamworth Town Centre"
+  },
+  "72b804eebf68a11a1aa68a4a603ec796610a80bf22edbc21f254e0c9b96281c0": {
+    "county": "North Yorkshire",
+    "date": "05-12-2026 to 06-12-2026",
+    "id": "72b804eebf68a11a1aa68a4a603ec796610a80bf22edbc21f254e0c9b96281c0",
+    "name": "Pickering Snowglobe",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/pickering-snowglobe/261379/",
+    "venue": "Galtres Park (Pickering Showground)"
+  },
+  "72ede142ccfaa61bef08b90e44e4998a0eb6f436c88de21f88c0080502417d12": {
+    "county": "North Yorkshire",
+    "date": "28-11-2026 to 29-11-2026",
+    "id": "72ede142ccfaa61bef08b90e44e4998a0eb6f436c88de21f88c0080502417d12",
+    "name": "Dippy Craft Fair Whitby Pavilion",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/dippy-craft-fair-whitby-pavilion-119026/261271/",
+    "venue": "Whitby Pavilion"
+  },
+  "75178c75502277963597e06f20ef20e76ede573e32c85992ce08db8250ff1927": {
+    "county": "Staffordshire",
+    "date": "17-11-2026",
+    "id": "75178c75502277963597e06f20ef20e76ede573e32c85992ce08db8250ff1927",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261281/",
+    "venue": "Tamworth Town Centre"
+  },
+  "76df6961d1adab2422127f4099670327b5e1110a2d4c2d67ce928e92435611fd": {
+    "county": "Derbyshire",
+    "date": "19-09-2026 to 20-09-2026",
+    "id": "76df6961d1adab2422127f4099670327b5e1110a2d4c2d67ce928e92435611fd",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260933/",
+    "venue": "Brigade Hall"
+  },
+  "76e7dd7f88c6f28e193ded15c85af906df66128fe93c89aa3e7b2abd32c27c2a": {
+    "county": "Staffordshire",
+    "date": "01-08-2026",
+    "id": "76e7dd7f88c6f28e193ded15c85af906df66128fe93c89aa3e7b2abd32c27c2a",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260756/",
+    "venue": "Tamworth Town Centre"
+  },
+  "782c7ea623cdd3f44f342b39be33f0f0e0f25bb73fed9e01675225a3fab01eaa": {
+    "county": "North Yorkshire",
+    "date": "27/11/2026",
+    "id": "782c7ea623cdd3f44f342b39be33f0f0e0f25bb73fed9e01675225a3fab01eaa",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-57143-event",
+    "venue": "Belfrey Hall"
+  },
+  "789ee67f4f581f71d08b0be2e257f54632d9a7410121f630b949620266832a2f": {
+    "county": "Staffordshire",
+    "date": "09-08-2026",
+    "id": "789ee67f4f581f71d08b0be2e257f54632d9a7410121f630b949620266832a2f",
+    "name": "Burntwood Produce & Craft Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/burntwood-produce-craft-market/259634/",
+    "venue": "Burntwood"
+  },
+  "78c9ddbc00d9d10190cb422a8e30f7fe11cf7a9625576c3123e623cb5bcaecc0": {
+    "county": "Staffordshire",
+    "date": "16-08-2026",
+    "id": "78c9ddbc00d9d10190cb422a8e30f7fe11cf7a9625576c3123e623cb5bcaecc0",
+    "name": "Barton Marina Artisan Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/barton-marina-artisan-market/257478/",
+    "venue": "Barton Marina"
+  },
+  "78e08343957449942e192189c515714897ae7817bb113d973fdae1ec6802df27": {
+    "county": "Staffordshire",
+    "date": "07-11-2026",
+    "id": "78e08343957449942e192189c515714897ae7817bb113d973fdae1ec6802df27",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261278/",
+    "venue": "Tamworth Town Centre"
+  },
+  "7964ca03dac9263afd42353fea0b461f7e55ff62386ad7a72114394533f3e8e9": {
+    "county": "Staffordshire",
+    "date": "21/11/2026 to 22/11/2026",
+    "id": "7964ca03dac9263afd42353fea0b461f7e55ff62386ad7a72114394533f3e8e9",
+    "name": "English Winter Fair, Staffs Showground",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/english-winter-fair-staffs-showground-21516-event",
+    "venue": "The Staffordshire County Show"
+  },
+  "797a43d01084537f9e7b62cc72de16fec389451ff6802518f89f7dc49757ea87": {
+    "county": "North Yorkshire",
+    "date": "01/08/2026 to 02/08/2026",
+    "id": "797a43d01084537f9e7b62cc72de16fec389451ff6802518f89f7dc49757ea87",
+    "name": "Dippy Craft Fair Whitby Pavilion",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/dippy-craft-fair-whitby-pavilion-57379-event",
+    "venue": "Whitby Pavilion"
+  },
+  "7b050e1399a9abe7e0398b8fab2f20bb2bc2bebc3515b61bff4d3beac545b78e": {
+    "county": "North Yorkshire",
+    "date": "05-12-2026",
+    "id": "7b050e1399a9abe7e0398b8fab2f20bb2bc2bebc3515b61bff4d3beac545b78e",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256175/",
+    "venue": "Belfrey Hall"
+  },
+  "7c26d25cde6f8013e9fa02fb4042f5a1b6904fcef02e5a2949e0a40be38f1395": {
+    "county": "Staffordshire",
+    "date": "11-10-2026",
+    "id": "7c26d25cde6f8013e9fa02fb4042f5a1b6904fcef02e5a2949e0a40be38f1395",
+    "name": "Burntwood Produce & Craft Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/burntwood-produce-craft-market/259636/",
+    "venue": "Burntwood"
+  },
+  "7ddedb81b2af6facd1372ddcb87dbd917e39039d69f95c16bb4b2301e891a356": {
+    "county": "Staffordshire",
+    "date": "20-10-2026",
+    "id": "7ddedb81b2af6facd1372ddcb87dbd917e39039d69f95c16bb4b2301e891a356",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260779/",
+    "venue": "Tamworth Town Centre"
+  },
+  "7ef810c631963803f49f6c8dd6fa3f87867fdc002e7059ebf3e8edcc88765400": {
+    "county": "Staffordshire",
+    "date": "10-12-2026",
+    "id": "7ef810c631963803f49f6c8dd6fa3f87867fdc002e7059ebf3e8edcc88765400",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259282/",
+    "venue": "Rugeley Town Centre"
+  },
+  "7f9341d09912f77b24350a29dddcfd425050ce2a0b2d6a1c3dacedd3f89da8ca": {
+    "county": "Staffordshire",
+    "date": "29-08-2026",
+    "id": "7f9341d09912f77b24350a29dddcfd425050ce2a0b2d6a1c3dacedd3f89da8ca",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260764/",
+    "venue": "Tamworth Town Centre"
+  },
+  "7fc8df06f5036bd20f8c74fac480a61b4c42aa58432d8b2eb016a84e1a6a66fa": {
+    "county": "Derbyshire",
+    "date": "25-10-2026",
+    "id": "7fc8df06f5036bd20f8c74fac480a61b4c42aa58432d8b2eb016a84e1a6a66fa",
+    "name": "Chesterfield Artisan Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/chesterfield-artisan-market/259850/",
+    "venue": "Chesterfield"
   },
   "80360711718276a21f926677e14214593276daa69669569f0f917cb9f5f219fa": {
     "county": "Derbyshire",
@@ -152,6 +1304,15 @@
     "url": "https://www.stallfinder.com/event/bakewell-craft-gift-fair-open-every-day-for-school-hols/261505/",
     "venue": "Brigade Hall"
   },
+  "80c36dd609671d26be809bf15b7ed3d00a7331d4b81db8a18f27d602d01f1957": {
+    "county": "North Yorkshire",
+    "date": "06/09/2026",
+    "id": "80c36dd609671d26be809bf15b7ed3d00a7331d4b81db8a18f27d602d01f1957",
+    "name": "Richmond Artisan Fairs",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/richmond-artisan-fairs-57041-event",
+    "venue": "Town Hall Richmond"
+  },
   "80e064a1535c2d5c5ab0106462bec51a04ee5118bda96607ecbd88050e683def": {
     "county": "Derbyshire",
     "date": "09-08-2026",
@@ -160,6 +1321,294 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/bowshaw-festival/259784/",
     "venue": "Bowshaw Showground"
+  },
+  "80e4503863c0bd14a23f1376cf2948d05edd1a1f7be93ef06a9d2f42d8ecc49c": {
+    "county": "North Yorkshire",
+    "date": "26-09-2026 to 27-09-2026",
+    "id": "80e4503863c0bd14a23f1376cf2948d05edd1a1f7be93ef06a9d2f42d8ecc49c",
+    "name": "Late September Craft Fair in Hawes",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/late-september-craft-fair-in-hawes/257939/",
+    "venue": "The Market House"
+  },
+  "84a4ff10e67aaa19cb74d93226652e222558b1b34380891f81af549c7e55d553": {
+    "county": "Derbyshire",
+    "date": "12-12-2026",
+    "id": "84a4ff10e67aaa19cb74d93226652e222558b1b34380891f81af549c7e55d553",
+    "name": "Buxton Markets Christmas Market 2026",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/buxton-markets-christmas-market-2026/259242/",
+    "venue": "Buxton Markets"
+  },
+  "8654e5d0e1b8e9b4fb0a27f263d1584acf155cf2033f5e8b014773a36aa4b92b": {
+    "county": "North Yorkshire",
+    "date": "17-10-2026",
+    "id": "8654e5d0e1b8e9b4fb0a27f263d1584acf155cf2033f5e8b014773a36aa4b92b",
+    "name": "York City Centre - Artisan Gift & Craft Fair / Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-city-centre-artisan-gift-craft-fair-market-117575/256169/",
+    "venue": "Belfrey Hall"
+  },
+  "8773486ad433fd8553cf8b719e283a4a510255f3cef50eeef339a53fca09ea9d": {
+    "county": "Derbyshire",
+    "date": "05-09-2026",
+    "id": "8773486ad433fd8553cf8b719e283a4a510255f3cef50eeef339a53fca09ea9d",
+    "name": "Earth and Essence Well-Being Festival 2026",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/earth-and-essence-wellbeing-festival-2026/258338/",
+    "venue": "Charnwood Alpacas"
+  },
+  "883b062a23e322473e5f2d77161a8399939101018885898712f0b0d1a0bfeba9": {
+    "county": "North Yorkshire",
+    "date": "29/11/2026",
+    "id": "883b062a23e322473e5f2d77161a8399939101018885898712f0b0d1a0bfeba9",
+    "name": "Richmond Artisan Fairs",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/richmond-artisan-fairs-57044-event",
+    "venue": "Town Hall Richmond"
+  },
+  "88e87f1907cbaf35ab2aabfa7d2ee2d445905485df0221252adc8ba263857292": {
+    "county": "North Yorkshire",
+    "date": "10-10-2026 to 11-10-2026",
+    "id": "88e87f1907cbaf35ab2aabfa7d2ee2d445905485df0221252adc8ba263857292",
+    "name": "Mid October Craft Fair in Hawes",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/mid-october-craft-fair-in-hawes/257940/",
+    "venue": "The Market House"
+  },
+  "8919394ef12b5f6d9ec89ab4c9a6abc0a81b61e48b0549c0b428296cb2053dd2": {
+    "county": "Staffordshire",
+    "date": "08-08-2026",
+    "id": "8919394ef12b5f6d9ec89ab4c9a6abc0a81b61e48b0549c0b428296cb2053dd2",
+    "name": "Mayfield Village Show",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/mayfield-village-show-118920/261013/",
+    "venue": "Mayfield Recreational Association"
+  },
+  "8a742decf9aa0efd91a99ad15de816c328ed7396ef14c5466c06d3e4b238ce83": {
+    "county": "Staffordshire",
+    "date": "30-07-2026",
+    "id": "8a742decf9aa0efd91a99ad15de816c328ed7396ef14c5466c06d3e4b238ce83",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259262/",
+    "venue": "Rugeley Town Centre"
+  },
+  "8b3337477d0ca528fce7545bbc191adba14b034f1f51b20d90438ac99f175b38": {
+    "county": "Staffordshire",
+    "date": "17-10-2026",
+    "id": "8b3337477d0ca528fce7545bbc191adba14b034f1f51b20d90438ac99f175b38",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260778/",
+    "venue": "Tamworth Town Centre"
+  },
+  "8bb5233ee521d70327bc85027670f0731a187f762dde90e2294291180a2a75b2": {
+    "county": "Staffordshire",
+    "date": "20-08-2026",
+    "id": "8bb5233ee521d70327bc85027670f0731a187f762dde90e2294291180a2a75b2",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259265/",
+    "venue": "Rugeley Town Centre"
+  },
+  "8c17e8de2fb6ed6237e6d41ea34dc2dad2a18412f0b89dc6f5e554299512276e": {
+    "county": "Derbyshire",
+    "date": "26-09-2026 to 27-09-2026",
+    "id": "8c17e8de2fb6ed6237e6d41ea34dc2dad2a18412f0b89dc6f5e554299512276e",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258236/",
+    "venue": "Bakewell Town Hall"
+  },
+  "8d6c2a46b1a549ae13ff40e4ff48540217f2431509aa4070b7a553e26ee1a2ff": {
+    "county": "Staffordshire",
+    "date": "24-10-2026",
+    "id": "8d6c2a46b1a549ae13ff40e4ff48540217f2431509aa4070b7a553e26ee1a2ff",
+    "name": "Lichfield Gift & Craft Fair",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/lichfield-gift-craft-fair-117973/257764/",
+    "venue": "Lichfield Guildhall"
+  },
+  "8d967a155a52d82f1e3fe9d44d9f77aa27f694f68065b555cebbd183aabfe6d9": {
+    "county": "North Yorkshire",
+    "date": "19/12/2026",
+    "id": "8d967a155a52d82f1e3fe9d44d9f77aa27f694f68065b555cebbd183aabfe6d9",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56276-event",
+    "venue": "Belfrey Hall"
+  },
+  "8ffd2d2736ba4f9432a7a86d25e2705a09d314ad777c9e4f4d23bd4a756b9009": {
+    "county": "North Yorkshire",
+    "date": "31-10-2026 to 01-11-2026",
+    "id": "8ffd2d2736ba4f9432a7a86d25e2705a09d314ad777c9e4f4d23bd4a756b9009",
+    "name": "Arts and Crafts at Helmsley",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/arts-and-crafts-at-helmsley/257052/",
+    "venue": "Helmsley Town Hall"
+  },
+  "90cd009f588c3a95b79a0890a9a751aa6869a438b2776aca7d49f4cbb2f4015d": {
+    "county": "North Yorkshire",
+    "date": "01-08-2026",
+    "id": "90cd009f588c3a95b79a0890a9a751aa6869a438b2776aca7d49f4cbb2f4015d",
+    "name": "Tadcaster Vintage Fair",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/tadcaster-vintage-fair/261043/",
+    "venue": "Riley-Smith Hall"
+  },
+  "92e8fedac6f31e250a768890edfe321258dca84e88eada8bb9fe024816313183": {
+    "county": "North Yorkshire",
+    "date": "07-11-2026",
+    "id": "92e8fedac6f31e250a768890edfe321258dca84e88eada8bb9fe024816313183",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256171/",
+    "venue": "Belfrey Hall"
+  },
+  "92fe217e6176ba905b2b09c499f991c9d717f1a3da380dffe723b59745a5c51a": {
+    "county": "Staffordshire",
+    "date": "31-10-2026",
+    "id": "92fe217e6176ba905b2b09c499f991c9d717f1a3da380dffe723b59745a5c51a",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260782/",
+    "venue": "Tamworth Town Centre"
+  },
+  "949aad9c68494d23493ac1521a191fceed8244fd4e77da7118d145eb5b86f1e5": {
+    "county": "North Yorkshire",
+    "date": "03/10/2026",
+    "id": "949aad9c68494d23493ac1521a191fceed8244fd4e77da7118d145eb5b86f1e5",
+    "name": "York City Centre - Artisan Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-city-centre-_-artisan-gift-&-craft-fair~market-56267-event",
+    "venue": "Belfrey Hall"
+  },
+  "94eef88e96b15bf28431c2fc3698317096c1d1516af5d260e60c0d5c82c235cb": {
+    "county": "Derbyshire",
+    "date": "14-11-2026 to 15-11-2026",
+    "id": "94eef88e96b15bf28431c2fc3698317096c1d1516af5d260e60c0d5c82c235cb",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258240/",
+    "venue": "Bakewell Town Hall"
+  },
+  "95948d569943cd5674a39735b7b9fd29d5b051dbabd012f2189be061fcce4ed9": {
+    "county": "North Yorkshire",
+    "date": "18/12/2026",
+    "id": "95948d569943cd5674a39735b7b9fd29d5b051dbabd012f2189be061fcce4ed9",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-57140-event",
+    "venue": "Belfrey Hall"
+  },
+  "96224073e745a187527f6b060372a02de83b6ac62fc05a1293b61199322d48f4": {
+    "county": "North Yorkshire",
+    "date": "06-09-2026",
+    "id": "96224073e745a187527f6b060372a02de83b6ac62fc05a1293b61199322d48f4",
+    "name": "Antique & Collectors Fayre",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/antique-collectors-fayre/256190/",
+    "venue": "Village Hall, Enterpen"
+  },
+  "96366d01ea9151465a530e71a9f787593d8c2c22c40af818ffc5b324dd3b743a": {
+    "county": "Staffordshire",
+    "date": "01-12-2026",
+    "id": "96366d01ea9151465a530e71a9f787593d8c2c22c40af818ffc5b324dd3b743a",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261285/",
+    "venue": "Tamworth Town Centre"
+  },
+  "96f6a957563e03271e133a62121e4c9067024c522e8dcc427e51e9bdb0f69ee5": {
+    "county": "North Yorkshire",
+    "date": "12-12-2026",
+    "id": "96f6a957563e03271e133a62121e4c9067024c522e8dcc427e51e9bdb0f69ee5",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256176/",
+    "venue": "Belfrey Hall"
+  },
+  "974d889128b098d4adad6f8f3e628705054c54a38b35417da1044dc34fb4e2ce": {
+    "county": "Staffordshire",
+    "date": "13-12-2026",
+    "id": "974d889128b098d4adad6f8f3e628705054c54a38b35417da1044dc34fb4e2ce",
+    "name": "Barton Marina Vegan Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/barton-marina-vegan-market/257474/",
+    "venue": "Barton Marina"
+  },
+  "979b06274db1ee3df31d9c4eece1253e9c07c7969baf2e3dac49d2d083f4b20b": {
+    "county": "North Yorkshire",
+    "date": "25/07/2026",
+    "id": "979b06274db1ee3df31d9c4eece1253e9c07c7969baf2e3dac49d2d083f4b20b",
+    "name": "York City Centre - Artisan Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-city-centre-_-artisan-gift-&-craft-fair~market-56262-event",
+    "venue": "Belfrey Hall"
+  },
+  "97a3797e333f9c7854aaa55a85f60bb92f909bee4f25091f5ee86851deca1d71": {
+    "county": "Staffordshire",
+    "date": "18-07-2026",
+    "id": "97a3797e333f9c7854aaa55a85f60bb92f909bee4f25091f5ee86851deca1d71",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260752/",
+    "venue": "Tamworth Town Centre"
+  },
+  "9b358fa1728e03c2a608ae538eb4b5c3af9b484a0c0504e5e1fc6d0307bb60b0": {
+    "county": "North Yorkshire",
+    "date": "06/09/2026",
+    "id": "9b358fa1728e03c2a608ae538eb4b5c3af9b484a0c0504e5e1fc6d0307bb60b0",
+    "name": "Antique & Collectables Fayre .Hutton Rudby",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/antique-&-collectables-fayre-hutton-rudby-57400-event",
+    "venue": "Hutton Rudby Village Hall"
+  },
+  "9cdf38703435fd230559f801efe0d86be87c3ea666be884efa77533770e907fd": {
+    "county": "Staffordshire",
+    "date": "19-12-2026",
+    "id": "9cdf38703435fd230559f801efe0d86be87c3ea666be884efa77533770e907fd",
+    "name": "Monthly Craft & Produce Market at Uttoxeter Town Hall",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/monthly-craft-produce-market-at-uttoxeter-town-hall/257349/",
+    "venue": "Uttoxeter Town Hall"
+  },
+  "9db38c6d7bb0be254cfad6d88654ccbcc97f90f25de3c19315ba33ad2e794bd3": {
+    "county": "North Yorkshire",
+    "date": "28/11/2026 to 29/11/2026",
+    "id": "9db38c6d7bb0be254cfad6d88654ccbcc97f90f25de3c19315ba33ad2e794bd3",
+    "name": "Dippy Craft Fair Whitby Pavilion",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/dippy-craft-fair-whitby-pavilion-57381-event",
+    "venue": "Whitby Pavilion"
+  },
+  "a0649d7e4e3cc98249903a3cae5918e6095dc59b09a787f69053c4cd80bee22e": {
+    "county": "Derbyshire",
+    "date": "03-10-2026",
+    "id": "a0649d7e4e3cc98249903a3cae5918e6095dc59b09a787f69053c4cd80bee22e",
+    "name": "Craft, Quirky, Vintage Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/craft-quirky-vintage-market/259592/",
+    "venue": "Buxton Markets"
+  },
+  "a0ff13f8aada00f1427544b7658ff219c7d29ac020f69f754699fc3aed407228": {
+    "county": "Staffordshire",
+    "date": "04-08-2026",
+    "id": "a0ff13f8aada00f1427544b7658ff219c7d29ac020f69f754699fc3aed407228",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260757/",
+    "venue": "Tamworth Town Centre"
+  },
+  "a191e4da144862ae65d4073aef50bbfaae5f902e8baa6bdfc3e16e3d9915f443": {
+    "county": "North Yorkshire",
+    "date": "01-08-2026 to 02-08-2026",
+    "id": "a191e4da144862ae65d4073aef50bbfaae5f902e8baa6bdfc3e16e3d9915f443",
+    "name": "Dippy Craft Fair Whitby Pavilion",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/dippy-craft-fair-whitby-pavilion-119026/261269/",
+    "venue": "Whitby Pavilion"
   },
   "a26b0dfc609358e01150a3edf0d0f59913a1330acf9be5e08aba9c819e916c1c": {
     "county": "Derbyshire",
@@ -170,6 +1619,114 @@
     "url": "https://www.stallfinder.com/event/the-bakewell-summer-fair-crafts-gifts-two-halls-open-119094/261501/",
     "venue": "Brigade Hall & Medway Centre"
   },
+  "a26ba1275a870f93f95811e032225f2d8ce161b5dcbe6bb91bdbcbe21135131b": {
+    "county": "Staffordshire",
+    "date": "29-09-2026",
+    "id": "a26ba1275a870f93f95811e032225f2d8ce161b5dcbe6bb91bdbcbe21135131b",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260773/",
+    "venue": "Tamworth Town Centre"
+  },
+  "a28b745bbbc193d23fe86ad671667f345d3adad640708515ba096c42ca5029fc": {
+    "county": "Staffordshire",
+    "date": "03-12-2026",
+    "id": "a28b745bbbc193d23fe86ad671667f345d3adad640708515ba096c42ca5029fc",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259281/",
+    "venue": "Rugeley Town Centre"
+  },
+  "a34924c85e55ad8ffa668697784a993051a386bc8d3848bf74f78a3507744c1c": {
+    "county": "Staffordshire",
+    "date": "06-08-2026",
+    "id": "a34924c85e55ad8ffa668697784a993051a386bc8d3848bf74f78a3507744c1c",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259263/",
+    "venue": "Rugeley Town Centre"
+  },
+  "a4f0792f5f8200dae26ff36d912b85345b833cab81f90364e0dbc737da1d005c": {
+    "county": "Staffordshire",
+    "date": "24-07-2026 to 26-07-2026",
+    "id": "a4f0792f5f8200dae26ff36d912b85345b833cab81f90364e0dbc737da1d005c",
+    "name": "Beacon Park Tribute Festival",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/beacon-park-tribute-festival/256044/",
+    "venue": "Beacon Park"
+  },
+  "a520af01f8d4ef7a93ebac6fe66b0c835acd07978d6751541360fbb839fc92df": {
+    "county": "North Yorkshire",
+    "date": "02-08-2026",
+    "id": "a520af01f8d4ef7a93ebac6fe66b0c835acd07978d6751541360fbb839fc92df",
+    "name": "Quality Craft Fair By Richmond Artisan Fairs",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/quality-craft-fair-by-richmond-artisan-fairs-116306/258989/",
+    "venue": "Richmond Town Hall"
+  },
+  "a5b7a628f6e2dec9e68406b5109723871236d8b1a8702c31ed1cdd8cf20f1c0e": {
+    "county": "Staffordshire",
+    "date": "19-07-2026",
+    "id": "a5b7a628f6e2dec9e68406b5109723871236d8b1a8702c31ed1cdd8cf20f1c0e",
+    "name": "Barton Marina Vegan Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/barton-marina-vegan-market/257472/",
+    "venue": "Barton Marina"
+  },
+  "a908b70eb13002a31a4bee9048169ad64bbfe0d7b5ebce42c896ec00b02c209f": {
+    "county": "Staffordshire",
+    "date": "22/08/2026",
+    "id": "a908b70eb13002a31a4bee9048169ad64bbfe0d7b5ebce42c896ec00b02c209f",
+    "name": "Barton Marian Artisan Market",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/barton-marian-artisan-market-56613-event",
+    "venue": "Barton Marina"
+  },
+  "ab94c7278feb19d801f106cfa27b9ee94d6dfeccc2f800fbc0a739db1ecab3ff": {
+    "county": "Staffordshire",
+    "date": "24-09-2026",
+    "id": "ab94c7278feb19d801f106cfa27b9ee94d6dfeccc2f800fbc0a739db1ecab3ff",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259271/",
+    "venue": "Rugeley Town Centre"
+  },
+  "ab9d1cbe8b23f2cfdbe4fe3b36cf70291d99064dff8e0aab447d257882193239": {
+    "county": "Staffordshire",
+    "date": "24-10-2026",
+    "id": "ab9d1cbe8b23f2cfdbe4fe3b36cf70291d99064dff8e0aab447d257882193239",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260780/",
+    "venue": "Tamworth Town Centre"
+  },
+  "ac6263047b0360bcc390e68c2a43c3866eecbf04c009bfc87c6447a2baa05573": {
+    "county": "North Yorkshire",
+    "date": "11/12/2026",
+    "id": "ac6263047b0360bcc390e68c2a43c3866eecbf04c009bfc87c6447a2baa05573",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-57141-event",
+    "venue": "Belfrey Hall"
+  },
+  "ad96541cada155bb321a879753ab577cbbe8a6a3cb525b872be3bebd1099f941": {
+    "county": "North Yorkshire",
+    "date": "08/08/2026",
+    "id": "ad96541cada155bb321a879753ab577cbbe8a6a3cb525b872be3bebd1099f941",
+    "name": "York City Centre - Artisan Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-city-centre-_-artisan-gift-&-craft-fair~market-56263-event",
+    "venue": "Belfrey Hall"
+  },
+  "ae5a418ba838ce161947d98ab2b4e444cdb786e643f69675a4f11c99dab5bfb8": {
+    "county": "North Yorkshire",
+    "date": "04-12-2026",
+    "id": "ae5a418ba838ce161947d98ab2b4e444cdb786e643f69675a4f11c99dab5bfb8",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/259865/",
+    "venue": "Belfrey Hall"
+  },
   "ae7c539cbd3972f201b2dce3fdceee9866d6f425c1af3ab41171887e316509f5": {
     "county": "Derbyshire",
     "date": "26-07-2026",
@@ -178,6 +1735,150 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/chesterfield-artisan-market/259847/",
     "venue": "Chesterfield"
+  },
+  "ae818d6317fef72ea52292c680ad0fb062d9b0abfb88edcf620afb782d6157c6": {
+    "county": "Staffordshire",
+    "date": "05-09-2026",
+    "id": "ae818d6317fef72ea52292c680ad0fb062d9b0abfb88edcf620afb782d6157c6",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260766/",
+    "venue": "Tamworth Town Centre"
+  },
+  "af3f1fdaed64a1d3efa1db841f50f8b1944c15a0d05edbe023c2ef677605e5fe": {
+    "county": "Staffordshire",
+    "date": "12-12-2026",
+    "id": "af3f1fdaed64a1d3efa1db841f50f8b1944c15a0d05edbe023c2ef677605e5fe",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261287/",
+    "venue": "Tamworth Town Centre"
+  },
+  "afb62084a026d5844c7bb199d0fc5a6deb2497723e0460a2fd424914f3a9f6f9": {
+    "county": "North Yorkshire",
+    "date": "12/12/2026",
+    "id": "afb62084a026d5844c7bb199d0fc5a6deb2497723e0460a2fd424914f3a9f6f9",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56275-event",
+    "venue": "Belfrey Hall"
+  },
+  "b0050971cead897e9ce07350713803cc77ee6ddbae91ba59e018a52f507b36ff": {
+    "county": "Derbyshire",
+    "date": "27-09-2026",
+    "id": "b0050971cead897e9ce07350713803cc77ee6ddbae91ba59e018a52f507b36ff",
+    "name": "Chesterfield Artisan Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/chesterfield-artisan-market/259849/",
+    "venue": "Chesterfield"
+  },
+  "b1e03b592d9a990f2b0ccb3920d07600060220e7385cd309d7446b85bb2bc4ce": {
+    "county": "North Yorkshire",
+    "date": "19-09-2026 to 20-09-2026",
+    "id": "b1e03b592d9a990f2b0ccb3920d07600060220e7385cd309d7446b85bb2bc4ce",
+    "name": "Arts and Crafts at Helmsley",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/arts-and-crafts-at-helmsley/257049/",
+    "venue": "Helmsley Town Hall"
+  },
+  "b2bb4977e9b9416c7b464af3ce4fedc4b80fadb0763478a2ecc148df810cfaa5": {
+    "county": "North Yorkshire",
+    "date": "21-11-2026 to 22-11-2026",
+    "id": "b2bb4977e9b9416c7b464af3ce4fedc4b80fadb0763478a2ecc148df810cfaa5",
+    "name": "Christmas Craft Fair in Hawes, Wensleydale",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/christmas-craft-fair-in-hawes-wensleydale/257942/",
+    "venue": "The Market House"
+  },
+  "b3a04003a8c2b10f5ea278b2ddf12971cc619972d308e8357dbe51a1faaf0d46": {
+    "county": "Derbyshire",
+    "date": "20-09-2026",
+    "id": "b3a04003a8c2b10f5ea278b2ddf12971cc619972d308e8357dbe51a1faaf0d46",
+    "name": "Breadsall Priory Country Club Wedding Fayre",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/breadsall-priory-country-club-wedding-fayre/260323/",
+    "venue": "Breadsall Priory Country Club"
+  },
+  "b3e6b7dc4edd86ef25701d0339571a1b07c2452add2363f5bd64372d4ac20f91": {
+    "county": "Derbyshire",
+    "date": "29-08-2026 to 31-08-2026",
+    "id": "b3e6b7dc4edd86ef25701d0339571a1b07c2452add2363f5bd64372d4ac20f91",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258234/",
+    "venue": "Bakewell Town Hall"
+  },
+  "b4caa63ac31c12047686b1a370c059a87f7394f1dece523c0271519003213ca2": {
+    "county": "Staffordshire",
+    "date": "22-10-2026",
+    "id": "b4caa63ac31c12047686b1a370c059a87f7394f1dece523c0271519003213ca2",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259275/",
+    "venue": "Rugeley Town Centre"
+  },
+  "b4e8e602b34012e3ee8347aeb22d920670a48c3ef9a13cb3111de4a2cdb7507f": {
+    "county": "North Yorkshire",
+    "date": "01-11-2026",
+    "id": "b4e8e602b34012e3ee8347aeb22d920670a48c3ef9a13cb3111de4a2cdb7507f",
+    "name": "Antique & Collectors Fayre",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/antique-collectors-fayre/256191/",
+    "venue": "Village Hall, Enterpen"
+  },
+  "b53f70dc93d7dadaa3e085b1d521eb3154a0745b9adaab059f6f4c03e6d1c701": {
+    "county": "Derbyshire",
+    "date": "05-09-2026",
+    "id": "b53f70dc93d7dadaa3e085b1d521eb3154a0745b9adaab059f6f4c03e6d1c701",
+    "name": "Craft, Quirky, Vintage Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/craft-quirky-vintage-market/259591/",
+    "venue": "Buxton Markets"
+  },
+  "b63ae617f2ee6508787af46bac0de349eed6742149920782284e828920efe041": {
+    "county": "North Yorkshire",
+    "date": "29-08-2026 to 30-08-2026",
+    "id": "b63ae617f2ee6508787af46bac0de349eed6742149920782284e828920efe041",
+    "name": "Scarborough Vintage Home Fair",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/scarborough-vintage-home-fair-119107/261561/",
+    "venue": "The Old Parcels Office"
+  },
+  "b6ccd5981b099cb647ff0d4e2376d29748b5565afb76f8797e069a52de2aae95": {
+    "county": "North Yorkshire",
+    "date": "05/12/2026",
+    "id": "b6ccd5981b099cb647ff0d4e2376d29748b5565afb76f8797e069a52de2aae95",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56274-event",
+    "venue": "Belfrey Hall"
+  },
+  "b7a4a2dd98a16c222c3fedcf02ac8e1b0c780276560811ad0e5d4fb3c79c6b2c": {
+    "county": "Staffordshire",
+    "date": "08/08/2026",
+    "id": "b7a4a2dd98a16c222c3fedcf02ac8e1b0c780276560811ad0e5d4fb3c79c6b2c",
+    "name": "Mayfield Village Show",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/mayfield-village-show-55923-event",
+    "venue": "Mayfield Recreational Association"
+  },
+  "b880f7ae105a9b7ad9cd41d146eca61664022b920c346b47a47b0b0dfa0c665f": {
+    "county": "North Yorkshire",
+    "date": "31-10-2026",
+    "id": "b880f7ae105a9b7ad9cd41d146eca61664022b920c346b47a47b0b0dfa0c665f",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256170/",
+    "venue": "Belfrey Hall"
+  },
+  "b88585129e88fbf98e836afd2aab0d9d40d991a4817df9a79acbd963486a87c9": {
+    "county": "North Yorkshire",
+    "date": "25-07-2026 to 26-07-2026",
+    "id": "b88585129e88fbf98e836afd2aab0d9d40d991a4817df9a79acbd963486a87c9",
+    "name": "Late July Craft Fair in Hawes",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/late-july-craft-fair-in-hawes/257933/",
+    "venue": "The Market House"
   },
   "b8ba0797cbfea79c0b091a45cfd31552541ecebb71bd43fa87975954156f367e": {
     "county": "Derbyshire",
@@ -188,6 +1889,267 @@
     "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260928/",
     "venue": "Brigade Hall"
   },
+  "b8eb686ec995d1a13eea2d0fed158819e2082197ee258320b9e88c85bb21724a": {
+    "county": "Staffordshire",
+    "date": "22-08-2026 to 23-08-2026",
+    "id": "b8eb686ec995d1a13eea2d0fed158819e2082197ee258320b9e88c85bb21724a",
+    "name": "Dine 'N' Devour | Food & Artisan Festival | Tamworth",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/dine-n-devour-food-artisan-festival-tamworth/259037/",
+    "venue": "Castle Upper & Lower Lawn"
+  },
+  "b930754fd8179996efb730f678c488c984cdf5646ae6558453b17ae4fe24d60e": {
+    "county": "Derbyshire",
+    "date": "03-10-2026",
+    "id": "b930754fd8179996efb730f678c488c984cdf5646ae6558453b17ae4fe24d60e",
+    "name": "Villains & Vices: A Halloween Book Event Ilkeston",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/villains-vices-a-halloween-book-event-ilkeston/261512/",
+    "venue": "Seven Oaks Inn"
+  },
+  "ba8c33fb8e8b2a7caa52fe4f1c2655af9cdc532785d24bd4b941b6b579d05faf": {
+    "county": "Staffordshire",
+    "date": "17-09-2026",
+    "id": "ba8c33fb8e8b2a7caa52fe4f1c2655af9cdc532785d24bd4b941b6b579d05faf",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259270/",
+    "venue": "Rugeley Town Centre"
+  },
+  "bb0eac98736b0bcfb1dc3b1044ecec43cf89a95e39369c9b415210fff422860d": {
+    "county": "North Yorkshire",
+    "date": "03-10-2026 to 04-10-2026",
+    "id": "bb0eac98736b0bcfb1dc3b1044ecec43cf89a95e39369c9b415210fff422860d",
+    "name": "Arts and Crafts at Helmsley",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/arts-and-crafts-at-helmsley/257050/",
+    "venue": "Helmsley Town Hall"
+  },
+  "bb4a29dbec30df4b4e30d3aa5085f5b55ff37c44e639d771bb0cd1b4070f5725": {
+    "county": "Staffordshire",
+    "date": "03-07-2027",
+    "id": "bb4a29dbec30df4b4e30d3aa5085f5b55ff37c44e639d771bb0cd1b4070f5725",
+    "name": "Wheaton Aston Carnival",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/wheaton-aston-carnival-119151/261666/",
+    "venue": "St Mary's School"
+  },
+  "bd3bb3f950f97dfa62ae7b14977ba582e80af85448d772fe3b29efb34bb81218": {
+    "county": "North Yorkshire",
+    "date": "03-10-2026",
+    "id": "bd3bb3f950f97dfa62ae7b14977ba582e80af85448d772fe3b29efb34bb81218",
+    "name": "York City Centre - Artisan Gift & Craft Fair / Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-city-centre-artisan-gift-craft-fair-market-117575/256168/",
+    "venue": "Belfrey Hall"
+  },
+  "bddad143c824ad888673ccac26ae4de7289934498d9ee8ff96e2147d555582f2": {
+    "county": "North Yorkshire",
+    "date": "10-10-2026 to 11-10-2026",
+    "id": "bddad143c824ad888673ccac26ae4de7289934498d9ee8ff96e2147d555582f2",
+    "name": "Arts and Crafts at Helmsley",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/arts-and-crafts-at-helmsley/257051/",
+    "venue": "Helmsley Town Hall"
+  },
+  "bde28231bd12755d56cc30a6f9068284bb649410c7c5536eae2273f566b354f3": {
+    "county": "Staffordshire",
+    "date": "01-09-2026",
+    "id": "bde28231bd12755d56cc30a6f9068284bb649410c7c5536eae2273f566b354f3",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260765/",
+    "venue": "Tamworth Town Centre"
+  },
+  "bde8a9cde8130ad86f88e094d74f0f7cc1c45ebd9115f2224c7b3d7ce0245a5a": {
+    "county": "Staffordshire",
+    "date": "08-10-2026",
+    "id": "bde8a9cde8130ad86f88e094d74f0f7cc1c45ebd9115f2224c7b3d7ce0245a5a",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259273/",
+    "venue": "Rugeley Town Centre"
+  },
+  "bed47f18455014c382c8b36b39293ef98bd110fe717fe7b67a1f4bb827e9080f": {
+    "county": "Staffordshire",
+    "date": "03-11-2026",
+    "id": "bed47f18455014c382c8b36b39293ef98bd110fe717fe7b67a1f4bb827e9080f",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261277/",
+    "venue": "Tamworth Town Centre"
+  },
+  "bf5796350b1b7332de6477cd45a408d4f88b69085b34dba82bfb4d525af35cb1": {
+    "county": "North Yorkshire",
+    "date": "05-12-2026 to 06-12-2026",
+    "id": "bf5796350b1b7332de6477cd45a408d4f88b69085b34dba82bfb4d525af35cb1",
+    "name": "Arts and Crafts at Helmsley",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/arts-and-crafts-at-helmsley/257312/",
+    "venue": "Helmsley Town Hall"
+  },
+  "c060d49ddc2e8cb08fd1718711ad88e1e028096990994dad235b8632d4fac82e": {
+    "county": "North Yorkshire",
+    "date": "01-11-2026",
+    "id": "c060d49ddc2e8cb08fd1718711ad88e1e028096990994dad235b8632d4fac82e",
+    "name": "Quality Craft Fair By Richmond Artisan Fairs",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/quality-craft-fair-by-richmond-artisan-fairs-116306/258992/",
+    "venue": "Richmond Town Hall"
+  },
+  "c0e3e3e5da312910849904a1d737887ddee194f3c4f3f3e466e82d1cbb012d3c": {
+    "county": "Derbyshire",
+    "date": "10-10-2026 to 11-10-2026",
+    "id": "c0e3e3e5da312910849904a1d737887ddee194f3c4f3f3e466e82d1cbb012d3c",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260936/",
+    "venue": "Brigade Hall"
+  },
+  "c11c690fc190bfe9bf381f26e2928b3a0ec52b2ba04816904c93b025e9c3418a": {
+    "county": "Derbyshire",
+    "date": "29-08-2026 to 30-08-2026",
+    "id": "c11c690fc190bfe9bf381f26e2928b3a0ec52b2ba04816904c93b025e9c3418a",
+    "name": "Derbyshire Flower and Garden Show",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/derbyshire-flower-and-garden-show-119065/261415/",
+    "venue": "Bakewell Showground"
+  },
+  "c17f41e4d6eb1da67c557505a2580e983074f78bd4ce483f3e0e21e7456bd56e": {
+    "county": "Derbyshire",
+    "date": "17-08-2026 to 21-08-2026",
+    "id": "c17f41e4d6eb1da67c557505a2580e983074f78bd4ce483f3e0e21e7456bd56e",
+    "name": "Bakewell Craft & Gift Fair - Open every day for School Hols",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/bakewell-craft-gift-fair-open-every-day-for-school-hols/261507/",
+    "venue": "Brigade Hall"
+  },
+  "c3a5946322d1e32f1f2901d5103996e017ed660c4152023155d2a4b2916b317c": {
+    "county": "Derbyshire",
+    "date": "31-10-2026 to 01-11-2026",
+    "id": "c3a5946322d1e32f1f2901d5103996e017ed660c4152023155d2a4b2916b317c",
+    "name": "Countryside Halloween Weekend - Wirksworth",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/countryside-halloween-weekend-wirksworth/261412/",
+    "venue": "Middleton Top Countryside Centre"
+  },
+  "c4289065b567add36acae5a1b09e29086903402360d31b3625a298e291057247": {
+    "county": "Staffordshire",
+    "date": "10-09-2026",
+    "id": "c4289065b567add36acae5a1b09e29086903402360d31b3625a298e291057247",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259269/",
+    "venue": "Rugeley Town Centre"
+  },
+  "c5761d76c6d6f542566a46c722966a18f8e10fb766fa039ff1e8b6efc361ca88": {
+    "county": "Derbyshire",
+    "date": "12-09-2026 to 13-09-2026",
+    "id": "c5761d76c6d6f542566a46c722966a18f8e10fb766fa039ff1e8b6efc361ca88",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260932/",
+    "venue": "Brigade Hall"
+  },
+  "c5db18f8b7b9b69ebb4a0969874825e61f3cb72259a3cbed3988c2b4843393d6": {
+    "county": "Staffordshire",
+    "date": "17/10/2026",
+    "id": "c5db18f8b7b9b69ebb4a0969874825e61f3cb72259a3cbed3988c2b4843393d6",
+    "name": "Barton Marian Artisan Market",
+    "source": "Stall & Craft Collective - Staffordshire",
+    "url": "https://www.stallandcraftcollective.co.uk/barton-marian-artisan-market-56614-event",
+    "venue": "Barton Marina"
+  },
+  "c5ecddea9e80502779e078b81193f2d8467b19a15cd18d574c51e8850489be58": {
+    "county": "Derbyshire",
+    "date": "19-09-2026",
+    "id": "c5ecddea9e80502779e078b81193f2d8467b19a15cd18d574c51e8850489be58",
+    "name": "The Risley Park Wedding Fayre",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-risley-park-wedding-fayre/261503/",
+    "venue": "The Risley Park"
+  },
+  "c640fa79ff1b4abf228645fd3fd8b2f15802618932881e64bc0456b40051234e": {
+    "county": "Derbyshire",
+    "date": "21-08-2026 to 23-08-2026",
+    "id": "c640fa79ff1b4abf228645fd3fd8b2f15802618932881e64bc0456b40051234e",
+    "name": "Dog Lovers Festival at Elvaston Caslte",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dog-lovers-festival-at-elvaston-caslte/258822/",
+    "venue": "Elvaston Castle"
+  },
+  "c772b10f4fc2263bc43aa2a69d6290ce1041088c740711593b4fb5d8d590c385": {
+    "county": "North Yorkshire",
+    "date": "25-10-2026",
+    "id": "c772b10f4fc2263bc43aa2a69d6290ce1041088c740711593b4fb5d8d590c385",
+    "name": "Bedale Book and Postcard Fair",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/bedale-book-and-postcard-fair/256258/",
+    "venue": "Bedale Hall"
+  },
+  "c7bf86dfb6f47e8a3495dfbf27de607ffd1c4b0a3454d5c0ddf0de594012167a": {
+    "county": "North Yorkshire",
+    "date": "24-10-2026 to 25-10-2026",
+    "id": "c7bf86dfb6f47e8a3495dfbf27de607ffd1c4b0a3454d5c0ddf0de594012167a",
+    "name": "Late October Craft Fair in Hawes",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/late-october-craft-fair-in-hawes/257941/",
+    "venue": "The Market House"
+  },
+  "c8999afe44edb1df487073a3e036dd3bccf623754487b9374b22ec462477332e": {
+    "county": "Staffordshire",
+    "date": "15-08-2026",
+    "id": "c8999afe44edb1df487073a3e036dd3bccf623754487b9374b22ec462477332e",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260760/",
+    "venue": "Tamworth Town Centre"
+  },
+  "c8b2154e6d2072b05fddf7946f47e31b91d8d80eb94362ffb781b70e2b1ea8ea": {
+    "county": "North Yorkshire",
+    "date": "05-09-2026",
+    "id": "c8b2154e6d2072b05fddf7946f47e31b91d8d80eb94362ffb781b70e2b1ea8ea",
+    "name": "York City Centre - Artisan Gift & Craft Fair / Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-city-centre-artisan-gift-craft-fair-market-117575/256166/",
+    "venue": "Belfrey Hall"
+  },
+  "ca3105524f71562b4c919ceab43b0828aaddbae88fb33d25dc4c088021265e0f": {
+    "county": "Derbyshire",
+    "date": "19-09-2026",
+    "id": "ca3105524f71562b4c919ceab43b0828aaddbae88fb33d25dc4c088021265e0f",
+    "name": "Buxton Markets CIC Special Food and Drink Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/buxton-markets-cic-special-food-and-drink-market/259687/",
+    "venue": "Buxton Markets"
+  },
+  "ca6123756526d473e7893d761a099a0cb0aed15a8065904893585dc9a46db366": {
+    "county": "Derbyshire",
+    "date": "07-11-2026 to 08-11-2026",
+    "id": "ca6123756526d473e7893d761a099a0cb0aed15a8065904893585dc9a46db366",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258239/",
+    "venue": "Bakewell Town Hall"
+  },
+  "cb59b5bb4ace63a7e02784f13f0bf4c113056360d3e24b84ae3d4f90babc7c06": {
+    "county": "North Yorkshire",
+    "date": "18-12-2026",
+    "id": "cb59b5bb4ace63a7e02784f13f0bf4c113056360d3e24b84ae3d4f90babc7c06",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/259867/",
+    "venue": "Belfrey Hall"
+  },
+  "cd04809a2671ef450951c2085086cb84f1dcea2b987b4f66d45a6b17e92e98ea": {
+    "county": "North Yorkshire",
+    "date": "11-12-2026",
+    "id": "cd04809a2671ef450951c2085086cb84f1dcea2b987b4f66d45a6b17e92e98ea",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/259866/",
+    "venue": "Belfrey Hall"
+  },
   "cebd9d4039d803cb5c4ba4a79c486223ac5bbabea028b531f8cbad9ff244070c": {
     "county": "Derbyshire",
     "date": "13-11-2026 to 15-11-2026",
@@ -196,6 +2158,42 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/artisan-craft-gift-market-dobbies-chesterfield/261177/",
     "venue": "Dobbies Garden Centre Chesterfield"
+  },
+  "d109af1e5dce2fd6f17ea72df7a64575e23e5c922dca7606918882016ba4cf0e": {
+    "county": "North Yorkshire",
+    "date": "28-11-2026",
+    "id": "d109af1e5dce2fd6f17ea72df7a64575e23e5c922dca7606918882016ba4cf0e",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256174/",
+    "venue": "Belfrey Hall"
+  },
+  "d1e00828569df0a0f082eb39500dc341e15323290575ad4f505e0b063cc1dd77": {
+    "county": "North Yorkshire",
+    "date": "13/11/2026",
+    "id": "d1e00828569df0a0f082eb39500dc341e15323290575ad4f505e0b063cc1dd77",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-57145-event",
+    "venue": "Belfrey Hall"
+  },
+  "d23eb88b0c2834b9e543c32758654074e119ab481dbbe7f50d81825eb25cb320": {
+    "county": "North Yorkshire",
+    "date": "18-10-2026",
+    "id": "d23eb88b0c2834b9e543c32758654074e119ab481dbbe7f50d81825eb25cb320",
+    "name": "Sheriff Hutton Village Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/sheriff-hutton-village-market/259625/",
+    "venue": "Sheriff Hutton Village Hall"
+  },
+  "d28eb583891e53196e482e205550f0249e8fa785a147c940d6a54ed66844d74d": {
+    "county": "Staffordshire",
+    "date": "06-10-2026",
+    "id": "d28eb583891e53196e482e205550f0249e8fa785a147c940d6a54ed66844d74d",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260775/",
+    "venue": "Tamworth Town Centre"
   },
   "d2b6e48ae2ac727833cd25a5b92085f7734a660ddf753c44de5373b15b487ced": {
     "county": "Derbyshire",
@@ -206,6 +2204,132 @@
     "url": "https://www.stallandcraftcollective.co.uk/the-bakewell-craft-&-gift-fair-~-est-1991-~-weekends-57494-event",
     "venue": "Brigade Hall"
   },
+  "d3406230cf4b90c0f3903b38fce735d11a74654b30df815873118802d77225f0": {
+    "county": "Derbyshire",
+    "date": "19-12-2026 to 20-12-2026",
+    "id": "d3406230cf4b90c0f3903b38fce735d11a74654b30df815873118802d77225f0",
+    "name": "Matlock Christmas Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/matlock-christmas-market-118995/261188/",
+    "venue": "Hall Leys Park"
+  },
+  "d8bf68bcd61cd175eedb63874e99b7fa6bc5e09a415d3989d35de199e7edfae4": {
+    "county": "North Yorkshire",
+    "date": "29-07-2026",
+    "id": "d8bf68bcd61cd175eedb63874e99b7fa6bc5e09a415d3989d35de199e7edfae4",
+    "name": "Shambles Makers Market & Young Traders Competition",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/shambles-makers-market-young-traders-competition/261370/",
+    "venue": "Shambles Market"
+  },
+  "d9481e51c2c3509e386ed63e82c9bbf04c6469b468e0d9ef512e67694560f13c": {
+    "county": "Derbyshire",
+    "date": "01-09-2026 to 04-09-2026",
+    "id": "d9481e51c2c3509e386ed63e82c9bbf04c6469b468e0d9ef512e67694560f13c",
+    "name": "Bakewell Craft & Gift Fair - Open every day for School Hols",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/bakewell-craft-gift-fair-open-every-day-for-school-hols/261509/",
+    "venue": "Brigade Hall"
+  },
+  "d9569af811e398eb8a703c10c3bc6e5d120d1d746fde9b3149550894cc421bd6": {
+    "county": "North Yorkshire",
+    "date": "06-09-2026",
+    "id": "d9569af811e398eb8a703c10c3bc6e5d120d1d746fde9b3149550894cc421bd6",
+    "name": "Quality Craft Fair By Richmond Artisan Fairs",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/quality-craft-fair-by-richmond-artisan-fairs-116306/258990/",
+    "venue": "Richmond Town Hall"
+  },
+  "d9777318ae7c1ea135b7052413d62c1b86ec83b1ee9a0f82128c75521cdbc5b0": {
+    "county": "North Yorkshire",
+    "date": "05/09/2026 to 06/09/2026",
+    "id": "d9777318ae7c1ea135b7052413d62c1b86ec83b1ee9a0f82128c75521cdbc5b0",
+    "name": "Dippy Craft Fair Whitby Pavilion",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/dippy-craft-fair-whitby-pavilion-57380-event",
+    "venue": "Whitby Pavilion"
+  },
+  "dacfec3187860284f5e4452d5a6ae016bf5353e3f9b35edd3dbb3cd7ffefd632": {
+    "county": "Staffordshire",
+    "date": "08-08-2026",
+    "id": "dacfec3187860284f5e4452d5a6ae016bf5353e3f9b35edd3dbb3cd7ffefd632",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260758/",
+    "venue": "Tamworth Town Centre"
+  },
+  "dbbb5d93af2ad2eabb2fe13da0a05879478631d90f61e41e38ea7d17a67a51fd": {
+    "county": "Staffordshire",
+    "date": "27-08-2026",
+    "id": "dbbb5d93af2ad2eabb2fe13da0a05879478631d90f61e41e38ea7d17a67a51fd",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259266/",
+    "venue": "Rugeley Town Centre"
+  },
+  "dc5b9dad6b9f53df971deba0be74a0d346b45d1f1449d7d1909104b8195c47c0": {
+    "county": "Staffordshire",
+    "date": "31-07-2026",
+    "id": "dc5b9dad6b9f53df971deba0be74a0d346b45d1f1449d7d1909104b8195c47c0",
+    "name": "Friday Trestle Market - Leek",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/friday-trestle-market-leek/261159/",
+    "venue": "Leek Trestle Market"
+  },
+  "de7a1b1306795ab0658f778bdb39a6a1def8690662d31835812747d735538fb9": {
+    "county": "Staffordshire",
+    "date": "15-09-2026",
+    "id": "de7a1b1306795ab0658f778bdb39a6a1def8690662d31835812747d735538fb9",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260769/",
+    "venue": "Tamworth Town Centre"
+  },
+  "debdf6c2e0f6515daa8ca879e9353bd1af2e43092187d386c856c7d982a02b07": {
+    "county": "North Yorkshire",
+    "date": "04-10-2026",
+    "id": "debdf6c2e0f6515daa8ca879e9353bd1af2e43092187d386c856c7d982a02b07",
+    "name": "Quality Craft Fair By Richmond Artisan Fairs",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/quality-craft-fair-by-richmond-artisan-fairs-116306/258991/",
+    "venue": "Richmond Town Hall"
+  },
+  "df318849dada831940bc68dde3901fb38fea184e034a48f059283ef6dfd68ff8": {
+    "county": "North Yorkshire",
+    "date": "08-08-2026",
+    "id": "df318849dada831940bc68dde3901fb38fea184e034a48f059283ef6dfd68ff8",
+    "name": "York City Centre - Artisan Gift & Craft Fair / Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-city-centre-artisan-gift-craft-fair-market-117575/256164/",
+    "venue": "Belfrey Hall"
+  },
+  "e02730e153d07e4b0754ff2a6c3248db2adf85a56c7f9ccf05337fb38ecf1824": {
+    "county": "Staffordshire",
+    "date": "08-12-2026",
+    "id": "e02730e153d07e4b0754ff2a6c3248db2adf85a56c7f9ccf05337fb38ecf1824",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/261286/",
+    "venue": "Tamworth Town Centre"
+  },
+  "e177c3c7731539c4d9a03f101229b56f6c1d003d1ddf122a05b134c88e3781ce": {
+    "county": "North Yorkshire",
+    "date": "29-08-2026 to 31-08-2026",
+    "id": "e177c3c7731539c4d9a03f101229b56f6c1d003d1ddf122a05b134c88e3781ce",
+    "name": "Ripon Market Place",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/ripon-market-place/258435/",
+    "venue": "Ripon Market Place"
+  },
+  "e187bd13a267a9a61abe4b0796af72edb8b6c1bee987c0b4ad0ec852f97b0d25": {
+    "county": "Staffordshire",
+    "date": "26-09-2026",
+    "id": "e187bd13a267a9a61abe4b0796af72edb8b6c1bee987c0b4ad0ec852f97b0d25",
+    "name": "Monthly Craft & Produce Market at Uttoxeter Town Hall",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/monthly-craft-produce-market-at-uttoxeter-town-hall/257346/",
+    "venue": "Uttoxeter Town Hall"
+  },
   "e1af9f8420d91573130e6076e41e752526a19c52920bc5247178de8e06452b5e": {
     "county": "Derbyshire",
     "date": "18-07-2026",
@@ -215,6 +2339,168 @@
     "url": "https://www.stallfinder.com/event/horsley-woodhouse-48th-carnival/260102/",
     "venue": "Sitwell Recreation Ground"
   },
+  "e1edbd17ea7c8c9bdec17cf4f907203c4101c086f266acccc48e4c2c30f45cd6": {
+    "county": "North Yorkshire",
+    "date": "19/09/2026",
+    "id": "e1edbd17ea7c8c9bdec17cf4f907203c4101c086f266acccc48e4c2c30f45cd6",
+    "name": "York City Centre - Artisan Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-city-centre-_-artisan-gift-&-craft-fair~market-56266-event",
+    "venue": "Belfrey Hall"
+  },
+  "e2e33e168a8a9d0d877c9553dbfeec71f909f8307b25afebccc078bf981669aa": {
+    "county": "North Yorkshire",
+    "date": "28-11-2026 to 29-11-2026",
+    "id": "e2e33e168a8a9d0d877c9553dbfeec71f909f8307b25afebccc078bf981669aa",
+    "name": "Arts and Crafts at Helmsley",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/arts-and-crafts-at-helmsley/257053/",
+    "venue": "Helmsley Town Hall"
+  },
+  "e3a517625bb1eb9167b2b7d0cd02fca59146cf83c23476896db2987b8e182a92": {
+    "county": "Derbyshire",
+    "date": "26-09-2026 to 27-09-2026",
+    "id": "e3a517625bb1eb9167b2b7d0cd02fca59146cf83c23476896db2987b8e182a92",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260934/",
+    "venue": "Brigade Hall"
+  },
+  "e43e6af57c28199cb1ad321fac4992c3a4e5eb27e336b89e95cfe11fef315b02": {
+    "county": "North Yorkshire",
+    "date": "07/11/2026",
+    "id": "e43e6af57c28199cb1ad321fac4992c3a4e5eb27e336b89e95cfe11fef315b02",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56270-event",
+    "venue": "Belfrey Hall"
+  },
+  "e569a92cc71cfd75eec5d71e65265ca805e9bdb2a9f3c07c4d755095f0afdb98": {
+    "county": "North Yorkshire",
+    "date": "27-11-2026",
+    "id": "e569a92cc71cfd75eec5d71e65265ca805e9bdb2a9f3c07c4d755095f0afdb98",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/259864/",
+    "venue": "Belfrey Hall"
+  },
+  "e5f60f945c17caf28618434b8438b17447c9c312463ad960b08bd2213bdad37c": {
+    "county": "Derbyshire",
+    "date": "30-10-2026",
+    "id": "e5f60f945c17caf28618434b8438b17447c9c312463ad960b08bd2213bdad37c",
+    "name": "After Dark Market - Ashbourne",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/after-dark-market-ashbourne/259021/",
+    "venue": "Ashbourne Market Place"
+  },
+  "e66fe8b97319d1b0ffd5994b0a164d9eaf1adc5638ae877849f55ea6bdbcff82": {
+    "county": "Staffordshire",
+    "date": "05-12-2026",
+    "id": "e66fe8b97319d1b0ffd5994b0a164d9eaf1adc5638ae877849f55ea6bdbcff82",
+    "name": "Lichfield Gift & Craft Festive Fair",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/lichfield-gift-craft-festive-fair-117976/257771/",
+    "venue": "Lichfield Guilhdall"
+  },
+  "e8ab53fc9f952784cabb5413ef0406af1039c8ae71b4beb078f3155977afcd85": {
+    "county": "Staffordshire",
+    "date": "12-09-2026",
+    "id": "e8ab53fc9f952784cabb5413ef0406af1039c8ae71b4beb078f3155977afcd85",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260768/",
+    "venue": "Tamworth Town Centre"
+  },
+  "e9489edc3d9a9a37ef90b7e5242bb7ea254079c2f714b9bb5f9a653229e4bbb5": {
+    "county": "North Yorkshire",
+    "date": "14-11-2026",
+    "id": "e9489edc3d9a9a37ef90b7e5242bb7ea254079c2f714b9bb5f9a653229e4bbb5",
+    "name": "York Christmas Craft & Gift Fair & Market - Belfrey Hall",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256172/",
+    "venue": "Belfrey Hall"
+  },
+  "e9773161c7a0d0210ee104de3fe67453030a6536b1023ad239d664f49c4ceded": {
+    "county": "Derbyshire",
+    "date": "17-10-2026",
+    "id": "e9773161c7a0d0210ee104de3fe67453030a6536b1023ad239d664f49c4ceded",
+    "name": "Buxton Markets CIC Special Food and Drink Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/buxton-markets-cic-special-food-and-drink-market/259688/",
+    "venue": "Buxton Markets"
+  },
+  "ea48fcf12a0ffe91b0eef5cfeda863a44c02c8ffab9d3f44e637cb9f72f4c1de": {
+    "county": "Staffordshire",
+    "date": "07-11-2026",
+    "id": "ea48fcf12a0ffe91b0eef5cfeda863a44c02c8ffab9d3f44e637cb9f72f4c1de",
+    "name": "Burton Spiritual and Wellbeing Show",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/burton-spiritual-and-wellbeing-show-118366/259063/",
+    "venue": "Burton Town Hall"
+  },
+  "eacf29fca6e8ed1344c0def5d1d078f0efd3b49e3591ded93a890a2ff578f234": {
+    "county": "Derbyshire",
+    "date": "12-09-2026 to 13-09-2026",
+    "id": "eacf29fca6e8ed1344c0def5d1d078f0efd3b49e3591ded93a890a2ff578f234",
+    "name": "Dales Fairs Artisan Events",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/dales-fairs-artisan-events/258235/",
+    "venue": "Bakewell Town Hall"
+  },
+  "eb1482454c90e0993d780fa007b9ea74397f7a5adaed58c82f50d2b7306fe41a": {
+    "county": "Staffordshire",
+    "date": "22-08-2026",
+    "id": "eb1482454c90e0993d780fa007b9ea74397f7a5adaed58c82f50d2b7306fe41a",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260762/",
+    "venue": "Tamworth Town Centre"
+  },
+  "ec6eafae44fd79dbecb6248350830fc01543adc71af59637d484f194ebe5a990": {
+    "county": "Derbyshire",
+    "date": "04-10-2026",
+    "id": "ec6eafae44fd79dbecb6248350830fc01543adc71af59637d484f194ebe5a990",
+    "name": "The Derby Conference Centre Wedding Fayre",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-derby-conference-centre-wedding-fayre/260324/",
+    "venue": "The Derby Conference Centre"
+  },
+  "edd70404d4be63a648c257296f8381fa307b27583b98a77d60134a8c8ba9dcca": {
+    "county": "North Yorkshire",
+    "date": "25-07-2026",
+    "id": "edd70404d4be63a648c257296f8381fa307b27583b98a77d60134a8c8ba9dcca",
+    "name": "York City Centre - Artisan Gift & Craft Fair / Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-city-centre-artisan-gift-craft-fair-market-117575/256163/",
+    "venue": "Belfrey Hall"
+  },
+  "ede79c401a43f33e0c3ab3a4602e4c4dfb96968742f3bf84aa816de5cd4e0362": {
+    "county": "North Yorkshire",
+    "date": "05/09/2026",
+    "id": "ede79c401a43f33e0c3ab3a4602e4c4dfb96968742f3bf84aa816de5cd4e0362",
+    "name": "York City Centre - Artisan Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-city-centre-_-artisan-gift-&-craft-fair~market-56265-event",
+    "venue": "Belfrey Hall"
+  },
+  "ee45b7a81e734b7794f6630327dca6a8ce4e81329ffb41787040b6ce05d0aff5": {
+    "county": "Staffordshire",
+    "date": "08-09-2026",
+    "id": "ee45b7a81e734b7794f6630327dca6a8ce4e81329ffb41787040b6ce05d0aff5",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260767/",
+    "venue": "Tamworth Town Centre"
+  },
+  "eed556bdbb45287a575449128b70dd18cf9d6dd8474978b024fe6515b8891e3d": {
+    "county": "Derbyshire",
+    "date": "03-10-2026 to 04-10-2026",
+    "id": "eed556bdbb45287a575449128b70dd18cf9d6dd8474978b024fe6515b8891e3d",
+    "name": "The Bakewell Craft & Gift Fair - Est 1991",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260935/",
+    "venue": "Brigade Hall"
+  },
   "efc706ca9a432ca3d2d8564e270cf372a69c8734dbc917031508cb55cca8b19d": {
     "county": "Derbyshire",
     "date": "18-07-2026 to 19-07-2026",
@@ -223,6 +2509,123 @@
     "source": "Stallfinder - Derbyshire",
     "url": "https://www.stallfinder.com/event/the-bakewell-craft-gift-fair-est-1991/260926/",
     "venue": "Brigade Hall"
+  },
+  "f00c6e8a8031b08ac2bb51ad880527138460418d8821160d9fbe476f9d3ef77a": {
+    "county": "Staffordshire",
+    "date": "23-07-2026",
+    "id": "f00c6e8a8031b08ac2bb51ad880527138460418d8821160d9fbe476f9d3ef77a",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259261/",
+    "venue": "Rugeley Town Centre"
+  },
+  "f11017932d9e31a25bf6a903be47a2605b99eae6a999c1705a2f2cd8d113858d": {
+    "county": "Staffordshire",
+    "date": "14-11-2026",
+    "id": "f11017932d9e31a25bf6a903be47a2605b99eae6a999c1705a2f2cd8d113858d",
+    "name": "Lichfield Gift & Craft Festive Fair",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/lichfield-gift-craft-festive-fair-117974/257766/",
+    "venue": "Lichfield Guildhall"
+  },
+  "f2116279d7fb133732bf366e47fda8dcc8e61af1a2fad92e53041458c3ced7c0": {
+    "county": "North Yorkshire",
+    "date": "14/11/2026",
+    "id": "f2116279d7fb133732bf366e47fda8dcc8e61af1a2fad92e53041458c3ced7c0",
+    "name": "York Christmas Gift & Craft Fair/Market",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/york-christmas-gift-&-craft-fair~market-56271-event",
+    "venue": "Belfrey Hall"
+  },
+  "f24512338d909f42288225be3b68e0929dbd68ecb978f70583ecfb8eb87ffbf2": {
+    "county": "North Yorkshire",
+    "date": "26-07-2026",
+    "id": "f24512338d909f42288225be3b68e0929dbd68ecb978f70583ecfb8eb87ffbf2",
+    "name": "Aldborough & Boroughbridge Show - Artisan Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/aldborough-boroughbridge-show-artisan-market/259870/",
+    "venue": "Newby Hall"
+  },
+  "f48b051df43b152d652300600b9cbb1df9c04d776c08d05abd37ae3324bff79c": {
+    "county": "North Yorkshire",
+    "date": "12-09-2026 to 13-09-2026",
+    "id": "f48b051df43b152d652300600b9cbb1df9c04d776c08d05abd37ae3324bff79c",
+    "name": "Mid September Craft Fair in Hawes",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/mid-september-craft-fair-in-hawes/257936/",
+    "venue": "The Market House"
+  },
+  "f4d91c7ba5f90897340fa9318f568d71cd025faf6aab94e90182f1ee93594a4c": {
+    "county": "Staffordshire",
+    "date": "21-07-2026",
+    "id": "f4d91c7ba5f90897340fa9318f568d71cd025faf6aab94e90182f1ee93594a4c",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260753/",
+    "venue": "Tamworth Town Centre"
+  },
+  "f61bccc0bac6f3aa1d5125c88256ebbc3886604a87de3d157cd6535020e1e15d": {
+    "county": "North Yorkshire",
+    "date": "29-08-2026",
+    "id": "f61bccc0bac6f3aa1d5125c88256ebbc3886604a87de3d157cd6535020e1e15d",
+    "name": "York City Centre - Artisan Gift & Craft Fair / Market",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/york-city-centre-artisan-gift-craft-fair-market-117575/256165/",
+    "venue": "Belfrey Hall"
+  },
+  "f638cea12299b155c6ed90db09e5081fcc97acb3ee61388fb7dc9be9bf02298a": {
+    "county": "Staffordshire",
+    "date": "01-10-2026",
+    "id": "f638cea12299b155c6ed90db09e5081fcc97acb3ee61388fb7dc9be9bf02298a",
+    "name": "Rugeley Street Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/rugeley-street-market/259272/",
+    "venue": "Rugeley Town Centre"
+  },
+  "f6cb3ac51501c19f118f76cbe61f25b9dbdd9ff77f4c867381e204f34fad55a4": {
+    "county": "North Yorkshire",
+    "date": "04/10/2026",
+    "id": "f6cb3ac51501c19f118f76cbe61f25b9dbdd9ff77f4c867381e204f34fad55a4",
+    "name": "Richmond Artisan Fairs",
+    "source": "Stall & Craft Collective - North Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/richmond-artisan-fairs-57042-event",
+    "venue": "Town Hall Richmond"
+  },
+  "f783a69ecdc40f3d6c18366a33fb9994f9127247b068138e13f510ec9d281cc0": {
+    "county": "Derbyshire",
+    "date": "18-10-2026",
+    "id": "f783a69ecdc40f3d6c18366a33fb9994f9127247b068138e13f510ec9d281cc0",
+    "name": "Derbyshire County Cricket Club Wedding Fayre",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/derbyshire-county-cricket-club-wedding-fayre/260322/",
+    "venue": "Derbyshire County Cricket Club"
+  },
+  "f7ed7a831f0b2d5058d3a1e35c842c7ac5afd72fd59a205fa3d5d79bf36fa4eb": {
+    "county": "Staffordshire",
+    "date": "03-10-2026",
+    "id": "f7ed7a831f0b2d5058d3a1e35c842c7ac5afd72fd59a205fa3d5d79bf36fa4eb",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260774/",
+    "venue": "Tamworth Town Centre"
+  },
+  "f8dc2145dc0303f28ebe82c161a5e98bfb69693236ddaf7fd303bacf1ffd4eea": {
+    "county": "Derbyshire",
+    "date": "03-10-2026",
+    "id": "f8dc2145dc0303f28ebe82c161a5e98bfb69693236ddaf7fd303bacf1ffd4eea",
+    "name": "Quirky Market Swadlincote",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/quirky-market-swadlincote/260377/",
+    "venue": "Swadlincote High Street"
+  },
+  "fd718a8d543d1bc149d43ae3eea36e624f271ba8589692d0133c00f151e03a1e": {
+    "county": "Derbyshire",
+    "date": "30-08-2026",
+    "id": "fd718a8d543d1bc149d43ae3eea36e624f271ba8589692d0133c00f151e03a1e",
+    "name": "Chesterfield Artisan Market",
+    "source": "Stallfinder - Derbyshire",
+    "url": "https://www.stallfinder.com/event/chesterfield-artisan-market/259848/",
+    "venue": "Chesterfield"
   },
   "fffe0f247006857ecbe5f4546b1e84b465b28329fc0f4be013b008fc83f2f572": {
     "county": "Derbyshire",
