@@ -20,3 +20,31 @@ sources:
     url: "https://www.stallfinder.com/event/county/derbyshire/0/"
     parser: "stallfinder"
     county: "Derbyshire"
+
+  - name: "Stall & Craft Collective - Staffordshire"
+    url: "https://www.stallandcraftcollective.co.uk/craft-fairs-in-staffordshire-lnd"
+    parser: "stall_and_craft_collective"
+    county: "Staffordshire"
+
+  - name: "Stall & Craft Collective - North Yorkshire"
+    url: "https://www.stallandcraftcollective.co.uk/craft-fairs-in-north-yorkshire-lnd"
+    parser: "stall_and_craft_collective"
+    county: "North Yorkshire"
+
+  - name: "Stall & Craft Collective - South Yorkshire"
+    url: "https://www.stallandcraftcollective.co.uk/craft-fairs-in-south-yorkshire-lnd"
+    parser: "stall_and_craft_collective"
+    county: "South Yorkshire"
+
+  - name: "Stallfinder - Staffordshire"
+    url: "https://www.stallfinder.com/event/county/staffordshire/0/"
+    parser: "stallfinder"
+    county: "Staffordshire"
+
+  # /event/county/north-yorkshire/0/ confirmed as a real slug (not guessed):
+  # found in Stallfinder's own "Browse by County" navigation menu, captured
+  # in a real page dump during earlier debugging of this source.
+  - name: "Stallfinder - North Yorkshire"
+    url: "https://www.stallfinder.com/event/county/north-yorkshire/0/"
+    parser: "stallfinder"
+    county: "North Yorkshire"
