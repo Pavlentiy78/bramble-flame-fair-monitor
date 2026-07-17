@@ -46,53 +46,87 @@ def fetch(url):
 # list of dicts: {"name": str, "date": str, "venue": str, "url": str}.
 # `name` is required; leave the rest as "" if a field isn't found.
 #
-# These two were written without being able to fetch the live pages from
-# the dev sandbox that built them (no outbound web access there). They are
-# a best-effort structural guess, not verified against real markup. Run
-# `python scraper.py --dump-html debug_html/` from an environment with
-# normal internet access (e.g. trigger the GitHub Actions workflow manually
-# with "dump_html" checked) and adjust the selectors below against the
-# saved HTML. See README "Calibrating selectors".
+# Selectors below are calibrated against real saved HTML from each site's
+# Derbyshire listing page (July 2026). If a source starts returning 0
+# listings, its markup has likely changed - use `python scraper.py
+# --dump-html debug_html/` to grab fresh HTML and adjust. See README
+# "Calibrating selectors".
 
 def stall_and_craft_collective(html, source_url):
+    # Each fair is a <div class="ev_block"> (NOT .featured_block - those are
+    # marketplace products, not fairs). Inside: name in .event_heading (an
+    # <a> itself), fields as <li><span class="font4">Label:</span> value</li>.
     soup = BeautifulSoup(html, "html.parser")
     listings = []
-    cards = soup.select(".event-card, .event-list-item, article, li.event")
-    for card in cards:
-        name_el = card.select_one("h2, h3, .event-title, .title")
-        if not name_el or not name_el.get_text(strip=True):
+    for block in soup.select("div.ev_block"):
+        heading_el = block.select_one(".event_heading")
+        if not heading_el or not heading_el.get_text(strip=True):
             continue
-        date_el = card.select_one(".event-date, .date, time")
-        venue_el = card.select_one(".event-venue, .venue, .location")
-        link_el = card.find("a", href=True)
+
+        fields = {}
+        for li in block.select("li"):
+            label_el = li.select_one(".font4")
+            if not label_el:
+                continue
+            label_text = label_el.get_text(strip=True)
+            label = label_text.rstrip(":").strip().lower()
+            fields[label] = li.get_text(strip=True)[len(label_text):].strip()
+
+        href = heading_el.get("href")
+        if not href:
+            img_link = block.select_one("a.event_img")
+            href = img_link.get("href") if img_link else None
+
         listings.append(
             {
-                "name": name_el.get_text(strip=True),
-                "date": date_el.get_text(strip=True) if date_el else "",
-                "venue": venue_el.get_text(strip=True) if venue_el else "",
-                "url": urljoin(source_url, link_el["href"]) if link_el else source_url,
+                "name": heading_el.get_text(strip=True),
+                "date": fields.get("date", ""),
+                "venue": fields.get("venue", ""),
+                "url": urljoin(source_url, href) if href else source_url,
             }
         )
     return listings
 
 
 def stallfinder(html, source_url):
+    # Each fair is a <div class="box_listing">. Name in "h2 a", venue/county
+    # in <p class="county_contact"> as "Venue: ..." / "County: ...", dates as
+    # bare "Start Date: .../End Date: ..." or "Date: ..." text (markup here
+    # is a bit malformed - an unmatched </p> - so we read labelled text from
+    # the whole card rather than relying on strict nesting), link in a.btn_more.
     soup = BeautifulSoup(html, "html.parser")
     listings = []
-    cards = soup.select(".searchResult, .search-result, .event-listing, .listing, li.event")
-    for card in cards:
-        name_el = card.select_one("h2, h3, .event-title, .title, a")
-        if not name_el or not name_el.get_text(strip=True):
+    for card in soup.select("div.box_listing"):
+        heading_link = card.select_one("h2 a")
+        if not heading_link or not heading_link.get_text(strip=True):
             continue
-        date_el = card.select_one(".event-date, .date, time")
-        venue_el = card.select_one(".event-venue, .venue, .location")
-        link_el = card.find("a", href=True)
+
+        parts = [p for p in card.get_text(separator="|", strip=True).split("|") if p]
+        fields = {}
+        i = 0
+        while i < len(parts) - 1:
+            if parts[i].endswith(":"):
+                fields[parts[i].rstrip(":").strip().lower()] = parts[i + 1]
+                i += 2
+            else:
+                i += 1
+
+        start_date = fields.get("start date", "")
+        end_date = fields.get("end date", "")
+        if start_date and end_date:
+            date = f"{start_date} to {end_date}"
+        else:
+            date = start_date or end_date or fields.get("date", "")
+
+        more_link = card.select_one("a.btn_more[href]")
+        href = more_link.get("href") if more_link else heading_link.get("href")
+
         listings.append(
             {
-                "name": name_el.get_text(strip=True),
-                "date": date_el.get_text(strip=True) if date_el else "",
-                "venue": venue_el.get_text(strip=True) if venue_el else "",
-                "url": urljoin(source_url, link_el["href"]) if link_el else source_url,
+                "name": heading_link.get_text(strip=True),
+                "date": date,
+                "venue": fields.get("venue", ""),
+                "url": urljoin(source_url, href) if href else source_url,
             }
         )
     return listings

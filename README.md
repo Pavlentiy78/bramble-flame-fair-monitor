@@ -41,12 +41,13 @@ No server — GitHub Actions runs `scraper.py` on schedule and shuts down.
 ## Calibrating selectors
 
 `scraper.py`'s two parser functions (`stall_and_craft_collective` and
-`stallfinder`) were written without the ability to fetch the live pages from
-the environment that built them, so their CSS selectors are a best-effort
-structural guess, not verified against real markup. They almost certainly
-need a correction pass against the real HTML before this is reliable.
+`stallfinder`) are calibrated against real saved HTML from each site's
+Derbyshire listing page (captured July 2026) and were verified to correctly
+extract every listing on that page (6/6 and 20/20 respectively).
 
-To calibrate them:
+Sites change their markup over time, though, so if a source ever starts
+returning 0 listings (the scraper logs a warning and reports it by email),
+recalibrate:
 
 1. In the Actions tab, run "Check for new craft fairs" manually with the
    **dump_html** input checked. This fetches each source's raw HTML (from a
