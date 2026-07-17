@@ -1,0 +1,59 @@
+name: Check for new craft fairs
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+    inputs:
+      dump_html:
+        description: "Calibration mode: fetch raw HTML from each source and upload as an artifact instead of scraping/notifying"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  check-fairs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Dump raw HTML (calibration mode)
+        if: ${{ inputs.dump_html }}
+        run: python scraper.py --dump-html debug_html
+
+      - name: Upload dumped HTML
+        if: ${{ inputs.dump_html }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-html-dump
+          path: debug_html
+
+      - name: Run scraper
+        if: ${{ !inputs.dump_html }}
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NOTIFY_TO_EMAIL: ${{ secrets.NOTIFY_TO_EMAIL }}
+          NOTIFY_FROM_EMAIL: ${{ secrets.NOTIFY_FROM_EMAIL }}
+        run: python scraper.py
+
+      - name: Commit updated seen.json
+        if: ${{ !inputs.dump_html }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- seen.json; then
+            git add seen.json
+            git commit -m "Update seen fair listings"
+            git push
+          else
+            echo "No changes to seen.json"
+          fi
