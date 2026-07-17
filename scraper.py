@@ -29,14 +29,31 @@ ROOT = Path(__file__).resolve().parent
 SOURCES_FILE = ROOT / "sources.yaml"
 SEEN_FILE = ROOT / "seen.json"
 
-USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-)
+# A bare User-Agent (plus requests' default Accept: */*) was enough to get a
+# 415 Unsupported Media Type from stallandcraftcollective.co.uk - its server
+# (or a WAF in front of it) evidently rejects requests that don't look like a
+# real browser navigation. requests never sets Content-Type on a bodyless
+# GET, so that wasn't it; this sends the header set a real Chrome navigation
+# sends instead.
+REQUEST_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-GB,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+}
 
 
 def fetch(url):
-    response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+    response = requests.get(url, headers=REQUEST_HEADERS, timeout=30)
     response.raise_for_status()
     return response.text
 
