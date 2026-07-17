@@ -12,6 +12,7 @@ import argparse
 import hashlib
 import json
 import logging
+import re
 import sys
 from pathlib import Path
 from urllib.parse import urljoin
@@ -55,7 +56,12 @@ REQUEST_HEADERS = {
 def fetch(url):
     response = requests.get(url, headers=REQUEST_HEADERS, timeout=30)
     response.raise_for_status()
-    return response.text
+    return response
+
+
+def _page_title(html):
+    match = re.search(r"<title[^>]*>(.*?)</title>", html, re.IGNORECASE | re.DOTALL)
+    return match.group(1).strip() if match else ""
 
 
 # --- Per-site parsers -------------------------------------------------
@@ -186,9 +192,11 @@ def scrape_source(source):
         return [], f"{source['name']}: unknown parser '{source['parser']}'"
 
     try:
-        html = fetch(source["url"])
+        response = fetch(source["url"])
     except requests.RequestException as exc:
         return [], f"{source['name']}: fetch failed ({exc})"
+
+    html = response.text
 
     try:
         raw_listings = parser(html, source["url"])
@@ -204,7 +212,19 @@ def scrape_source(source):
         listings.append(item)
 
     if not listings:
-        log.warning("%s: parsed 0 listings - selectors may need updating", source["name"])
+        # Selectors matching 0 elements and the server not sending the page
+        # we expect (WAF/anti-bot interstitial, redirect, rate limiting) look
+        # identical from the "0 listings" count alone. Log what was actually
+        # received so a recurrence is diagnosable from the log instead of
+        # requiring another manual HTML dump.
+        log.warning(
+            "%s: parsed 0 listings - status=%s final_url=%s bytes=%d title=%r",
+            source["name"],
+            response.status_code,
+            response.url,
+            len(response.content),
+            _page_title(html),
+        )
 
     return listings, None
 
@@ -215,13 +235,20 @@ def dump_html(out_dir):
     for source in load_sources():
         slug = source["name"].lower().replace(" ", "_").replace("/", "_")
         try:
-            html = fetch(source["url"])
+            response = fetch(source["url"])
         except requests.RequestException as exc:
             log.error("%s: fetch failed (%s)", source["name"], exc)
             continue
+        html = response.text
         path = out_dir / f"{slug}.html"
         path.write_text(html, encoding="utf-8")
-        log.info("saved %s (%d bytes)", path, len(html))
+        log.info(
+            "saved %s (%d bytes, status=%s, final_url=%s)",
+            path,
+            len(html),
+            response.status_code,
+            response.url,
+        )
 
 
 def run(dry_run=False):
