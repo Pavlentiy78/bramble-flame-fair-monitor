@@ -1,11 +1,15 @@
 # Sources checked by scraper.py.
 #
 # Each entry:
-#   name    - human-readable label, shown in emails and logs
-#   url     - listing page to fetch
-#   parser  - name of the parser function in scraper.py (PARSERS dict) that
-#             knows how to turn that page's HTML into a list of listings
-#   county  - recorded on each listing for reference / future filtering
+#   name      - human-readable label, shown in emails and logs
+#   url       - listing page to fetch (first page, if paginated)
+#   parser    - name of the parser function in scraper.py (PARSERS dict) that
+#               knows how to turn that page's HTML into a list of listings
+#   county    - recorded on each listing for reference / future filtering
+#   paginate  - optional, default false. Set true to follow Stallfinder-style
+#               numeric-offset pagination (.../0/, .../20/, .../40/, ...)
+#               until a page returns 0 listings.
+#   page_size - optional, default 20. Offset increment between pages.
 #
 # To add a new source: write a parser function in scraper.py, register it in
 # PARSERS, then add an entry here. No other code changes needed.
@@ -16,10 +20,14 @@ sources:
     parser: "stall_and_craft_collective"
     county: "Derbyshire"
 
+  # Stallfinder shows 20 results per page and pages by URL offset - confirmed
+  # from the page-number links on a real results page (Derbyshire alone has
+  # 74 total, i.e. 4 pages). paginate: true follows all of them.
   - name: "Stallfinder - Derbyshire"
     url: "https://www.stallfinder.com/event/county/derbyshire/0/"
     parser: "stallfinder"
     county: "Derbyshire"
+    paginate: true
 
   - name: "Stall & Craft Collective - Staffordshire"
     url: "https://www.stallandcraftcollective.co.uk/craft-fairs-in-staffordshire-lnd"
@@ -40,6 +48,7 @@ sources:
     url: "https://www.stallfinder.com/event/county/staffordshire/0/"
     parser: "stallfinder"
     county: "Staffordshire"
+    paginate: true
 
   # /event/county/north-yorkshire/0/ confirmed as a real slug (not guessed):
   # found in Stallfinder's own "Browse by County" navigation menu, captured
@@ -48,3 +57,4 @@ sources:
     url: "https://www.stallfinder.com/event/county/north-yorkshire/0/"
     parser: "stallfinder"
     county: "North Yorkshire"
+    paginate: true

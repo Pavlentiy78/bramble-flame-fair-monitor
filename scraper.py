@@ -185,23 +185,34 @@ def save_seen(seen):
         f.write("\n")
 
 
-def scrape_source(source):
-    """Fetch + parse one source. Returns (listings, error_message_or_None)."""
-    parser = PARSERS.get(source["parser"])
-    if parser is None:
-        return [], f"{source['name']}: unknown parser '{source['parser']}'"
+def _next_page_url(url, page_size):
+    """Given a '.../<offset>/' listing URL, return the URL for the next page.
 
+    Stallfinder paginates by putting a numeric result-offset as the last URL
+    segment (.../derbyshire/0/, .../derbyshire/20/, .../derbyshire/40/, ...
+    confirmed from the "Next"/page-number links on a real results page).
+    Returns None if the URL doesn't end in a number (nothing to paginate).
+    """
+    match = re.match(r"^(.*/)(\d+)(/?)$", url)
+    if not match:
+        return None
+    prefix, offset, trailing_slash = match.groups()
+    return f"{prefix}{int(offset) + page_size}{trailing_slash}"
+
+
+def _fetch_and_parse_page(source, url, parser):
+    """Fetch + parse a single page. Returns (listings, error, response_or_None)."""
     try:
-        response = fetch(source["url"])
+        response = fetch(url)
     except requests.RequestException as exc:
-        return [], f"{source['name']}: fetch failed ({exc})"
+        return [], f"{source['name']}: fetch failed ({exc})", None
 
     html = response.text
 
     try:
         raw_listings = parser(html, source["url"])
     except Exception as exc:  # a broken selector shouldn't kill the whole run
-        return [], f"{source['name']}: parse failed ({exc})"
+        return [], f"{source['name']}: parse failed ({exc})", response
 
     listings = []
     for item in raw_listings:
@@ -211,7 +222,52 @@ def scrape_source(source):
         item["county"] = source.get("county", "")
         listings.append(item)
 
-    if not listings:
+    return listings, None, response
+
+
+def scrape_source(source):
+    """Fetch + parse a source, following pagination if configured.
+
+    Set `paginate: true` (and optionally `page_size`, default 20) on a
+    source in sources.yaml to follow Stallfinder-style numeric-offset
+    pagination until a page comes back with 0 listings. Returns
+    (listings, error_message_or_None).
+    """
+    parser = PARSERS.get(source["parser"])
+    if parser is None:
+        return [], f"{source['name']}: unknown parser '{source['parser']}'"
+
+    paginate = source.get("paginate", False)
+    page_size = source.get("page_size", 20)
+    max_pages = 20  # safety cap so a pagination bug can't loop forever
+
+    all_listings = []
+    last_response = None
+    last_html = ""
+    url = source["url"]
+
+    for page_num in range(max_pages):
+        listings, error, response = _fetch_and_parse_page(source, url, parser)
+        if error:
+            if page_num == 0:
+                return [], error
+            break  # a later page failing (e.g. past the last real page) just ends pagination
+
+        last_response, last_html = response, response.text
+        if not listings:
+            break
+
+        all_listings.extend(listings)
+
+        if not paginate:
+            break
+
+        next_url = _next_page_url(url, page_size)
+        if not next_url:
+            break
+        url = next_url
+
+    if not all_listings:
         # Selectors matching 0 elements and the server not sending the page
         # we expect (WAF/anti-bot interstitial, redirect, rate limiting) look
         # identical from the "0 listings" count alone. Log what was actually
@@ -220,13 +276,13 @@ def scrape_source(source):
         log.warning(
             "%s: parsed 0 listings - status=%s final_url=%s bytes=%d title=%r",
             source["name"],
-            response.status_code,
-            response.url,
-            len(response.content),
-            _page_title(html),
+            last_response.status_code if last_response else None,
+            last_response.url if last_response else url,
+            len(last_response.content) if last_response else 0,
+            _page_title(last_html),
         )
 
-    return listings, None
+    return all_listings, None
 
 
 def dump_html(out_dir):
