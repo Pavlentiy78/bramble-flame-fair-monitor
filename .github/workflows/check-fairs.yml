@@ -57,3 +57,4 @@ jobs:
           else
             echo "No changes to seen.json"
           fi
+   # trigger reindex.
