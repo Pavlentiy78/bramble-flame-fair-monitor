@@ -2,7 +2,11 @@ name: Check for new craft fairs
 
 on:
   schedule:
-    - cron: "0 7 * * *"
+    # Not "0 7 * * *": GitHub explicitly documents that schedules on the
+    # exact hour are the most congested and most likely to be delayed. The
+    # one run this has had at "0 7" fired over 2 hours late (09:05 instead
+    # of 07:00). Off the hour is much more likely to land close to on time.
+    - cron: "7 7 * * *"
   workflow_dispatch:
     inputs:
       dump_html:
