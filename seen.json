@@ -197,6 +197,15 @@
     "url": "https://www.stallfinder.com/event/early-august-craft-fair-in-hawes/257934/",
     "venue": "The Market House"
   },
+  "1289f1cacc6aa9c58f4c13329033741cf6abf2994b2ff021123293f9497efe92": {
+    "county": "Staffordshire",
+    "date": "13-10-2026",
+    "id": "1289f1cacc6aa9c58f4c13329033741cf6abf2994b2ff021123293f9497efe92",
+    "name": "Tamworth Market",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/tamworth-market/260777/",
+    "venue": "Tamworth Town Centre"
+  },
   "1437889fd8e48744034720f3a302706dfde35d249d922b4754d7b01efe294ee7": {
     "county": "Staffordshire",
     "date": "19/07/2026",
@@ -691,6 +700,15 @@
     "source": "Stallfinder - North Yorkshire",
     "url": "https://www.stallfinder.com/event/selby-feastival/261050/",
     "venue": "Selby Park"
+  },
+  "47a1233316651299104697075c1f22a06a92c6c5c1986f5ace6f6e663b4a9aae": {
+    "county": "Staffordshire",
+    "date": "12-12-2026",
+    "id": "47a1233316651299104697075c1f22a06a92c6c5c1986f5ace6f6e663b4a9aae",
+    "name": "Lichfield Gift & Craft Festive Fair",
+    "source": "Stallfinder - Staffordshire",
+    "url": "https://www.stallfinder.com/event/lichfield-gift-craft-festive-fair-117977/257772/",
+    "venue": "Lichfield Guildhall"
   },
   "48164b5041a53681c4c075d7fb0a544f8ca1c541d14dd84829a0a6df4b873782": {
     "county": "Staffordshire",
@@ -1330,6 +1348,15 @@
     "source": "Stallfinder - North Yorkshire",
     "url": "https://www.stallfinder.com/event/late-september-craft-fair-in-hawes/257939/",
     "venue": "The Market House"
+  },
+  "83888a0f00c286573fd210879d0cde200abcc167dbafec0dcaa10b71fed1f85e": {
+    "county": "North Yorkshire",
+    "date": "22-08-2026 to 23-08-2026",
+    "id": "83888a0f00c286573fd210879d0cde200abcc167dbafec0dcaa10b71fed1f85e",
+    "name": "Mathewsons Live 2026",
+    "source": "Stallfinder - North Yorkshire",
+    "url": "https://www.stallfinder.com/event/mathewsons-live-2026/261007/",
+    "venue": "The Great Yorkshire Showground"
   },
   "84a4ff10e67aaa19cb74d93226652e222558b1b34380891f81af549c7e55d553": {
     "county": "Derbyshire",
@@ -2311,6 +2338,15 @@
     "source": "Stallfinder - Staffordshire",
     "url": "https://www.stallfinder.com/event/tamworth-market/261286/",
     "venue": "Tamworth Town Centre"
+  },
+  "e0c6314d92d58c96944233bf8f28d8dcfee877d2253e07164304aa867a9eeacf": {
+    "county": "South Yorkshire",
+    "date": "28/11/2026 to 29/11/2026",
+    "id": "e0c6314d92d58c96944233bf8f28d8dcfee877d2253e07164304aa867a9eeacf",
+    "name": "Whirlow Hall Farm - Christmas Fayre on a working Farm!",
+    "source": "Stall & Craft Collective - South Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/whirlow-hall-farm-_-christmas-fayre-on-a-working-farm-55765-event",
+    "venue": "Whirlow Hall Farm Trust"
   },
   "e177c3c7731539c4d9a03f101229b56f6c1d003d1ddf122a05b134c88e3781ce": {
     "county": "North Yorkshire",
