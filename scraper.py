@@ -231,11 +231,11 @@ def scrape_source(source):
     Set `paginate: true` (and optionally `page_size`, default 20) on a
     source in sources.yaml to follow Stallfinder-style numeric-offset
     pagination until a page comes back with 0 listings. Returns
-    (listings, error_message_or_None).
+    (listings, error_message_or_None, warning_message_or_None).
     """
     parser = PARSERS.get(source["parser"])
     if parser is None:
-        return [], f"{source['name']}: unknown parser '{source['parser']}'"
+        return [], f"{source['name']}: unknown parser '{source['parser']}'", None
 
     paginate = source.get("paginate", False)
     page_size = source.get("page_size", 20)
@@ -250,7 +250,7 @@ def scrape_source(source):
         listings, error, response = _fetch_and_parse_page(source, url, parser)
         if error:
             if page_num == 0:
-                return [], error
+                return [], error, None
             break  # a later page failing (e.g. past the last real page) just ends pagination
 
         last_response, last_html = response, response.text
@@ -267,22 +267,23 @@ def scrape_source(source):
             break
         url = next_url
 
+    warning = None
     if not all_listings:
         # Selectors matching 0 elements and the server not sending the page
         # we expect (WAF/anti-bot interstitial, redirect, rate limiting) look
-        # identical from the "0 listings" count alone. Log what was actually
-        # received so a recurrence is diagnosable from the log instead of
+        # identical from the "0 listings" count alone. Surface what was
+        # actually received - both in the log and in the daily email - so a
+        # recurrence is diagnosable without digging through Actions logs or
         # requiring another manual HTML dump.
-        log.warning(
-            "%s: parsed 0 listings - status=%s final_url=%s bytes=%d title=%r",
-            source["name"],
-            last_response.status_code if last_response else None,
-            last_response.url if last_response else url,
-            len(last_response.content) if last_response else 0,
-            _page_title(last_html),
+        warning = (
+            f"{source['name']}: parsed 0 listings - status={last_response.status_code if last_response else None} "
+            f"final_url={last_response.url if last_response else url} "
+            f"bytes={len(last_response.content) if last_response else 0} "
+            f"title={_page_title(last_html)!r}"
         )
+        log.warning(warning)
 
-    return all_listings, None
+    return all_listings, None, warning
 
 
 def dump_html(out_dir):
@@ -312,14 +313,17 @@ def run(dry_run=False):
     seen = load_seen()
     new_listings = []
     errors = []
+    warnings = []
 
     for source in sources:
         log.info("checking %s", source["name"])
-        listings, error = scrape_source(source)
+        listings, error, warning = scrape_source(source)
         if error:
             log.error(error)
             errors.append(error)
             continue
+        if warning:
+            warnings.append(warning)
 
         for listing in listings:
             listing_id = make_id(listing["name"], listing.get("date", ""), listing.get("venue", ""))
@@ -327,18 +331,27 @@ def run(dry_run=False):
                 new_listings.append(listing)
                 seen[listing_id] = {**listing, "id": listing_id}
 
-    log.info("found %d new listing(s), %d error(s)", len(new_listings), len(errors))
+    log.info(
+        "found %d new listing(s), %d error(s), %d source(s) with 0 listings",
+        len(new_listings),
+        len(errors),
+        len(warnings),
+    )
 
     if dry_run:
         for listing in new_listings:
             print(json.dumps(listing, indent=2))
+        for warning in warnings:
+            print(f"WARNING: {warning}")
         return 1 if errors else 0
 
-    if new_listings or errors:
-        try:
-            notify.send_new_listings_email(new_listings, errors)
-        except Exception as exc:
-            log.error("failed to send notification email: %s", exc)
+    # Sent every run, not just when there's something new - a source silently
+    # going empty (WAF interstitial, markup change) needs to be visible
+    # without digging through Actions logs. See warnings above.
+    try:
+        notify.send_daily_email(new_listings, errors, warnings)
+    except Exception as exc:
+        log.error("failed to send notification email: %s", exc)
 
     save_seen(seen)
 

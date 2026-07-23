@@ -6,8 +6,15 @@ import requests
 RESEND_API_URL = "https://api.resend.com/emails"
 
 
-def send_new_listings_email(new_listings, errors=None):
+def send_daily_email(new_listings, errors=None, warnings=None):
+    """Sends the daily status email - always, whether or not anything's new.
+
+    A source silently going quiet (WAF interstitial, markup change) is only
+    useful information if it reaches an inbox instead of sitting in an
+    Actions log nobody's looking at.
+    """
     errors = errors or []
+    warnings = warnings or []
     api_key = os.environ.get("RESEND_API_KEY")
     to_email = os.environ.get("NOTIFY_TO_EMAIL")
     from_email = os.environ.get("NOTIFY_FROM_EMAIL", "Fair Monitor <onboarding@resend.dev>")
@@ -17,7 +24,7 @@ def send_new_listings_email(new_listings, errors=None):
             "RESEND_API_KEY and NOTIFY_TO_EMAIL must be set (as GitHub Actions secrets) to send email."
         )
 
-    subject, text_body = _format_email(new_listings, errors)
+    subject, text_body = _format_email(new_listings, errors, warnings)
 
     response = requests.post(
         RESEND_API_URL,
@@ -34,12 +41,16 @@ def send_new_listings_email(new_listings, errors=None):
     return response.json()
 
 
-def _format_email(new_listings, errors):
+def _format_email(new_listings, errors, warnings):
     if new_listings:
         count = len(new_listings)
         subject = f"{count} new craft fair listing{'s' if count != 1 else ''}"
-    else:
+    elif errors:
         subject = "Fair monitor: scrape errors"
+    elif warnings:
+        subject = f"Fair monitor: 0 new listings ({len(warnings)} source{'s' if len(warnings) != 1 else ''} flagged)"
+    else:
+        subject = "Fair monitor: 0 new listings today"
 
     lines = []
 
@@ -58,6 +69,17 @@ def _format_email(new_listings, errors):
             if listing.get("url"):
                 lines.append(f"  Link: {listing['url']}")
             lines.append("")
+    else:
+        lines.append("No new listings today.\n")
+
+    if warnings:
+        lines.append(
+            "Sources that returned 0 listings (could be a real empty result, "
+            "or a site blocking automated requests - check the title/status below):\n"
+        )
+        for warning in warnings:
+            lines.append(f"- {warning}")
+        lines.append("")
 
     if errors:
         lines.append("Scrape errors (a source may need its selectors updated):\n")
