@@ -6,10 +6,10 @@ fair shows up in Derbyshire / the East Midlands, so stalls don't get missed.
 ## How it works
 
 ```
-GitHub Actions (cron, daily 07:00 UTC)
-        │
+cron-job.org (daily HTTP POST, ~07:00 UTC)
+        │  triggers workflow_dispatch via the GitHub REST API
         ▼
-  scraper.py  ──reads──▶  sources.yaml (URLs + which parser to use)
+GitHub Actions ── scraper.py ──reads──▶ sources.yaml (URLs + which parser to use)
         │
         ▼
   seen.json  (committed to the repo — the "database" of fairs already notified about)
@@ -18,10 +18,21 @@ GitHub Actions (cron, daily 07:00 UTC)
   diff: new listings = scraped - seen
         │
         ▼
-  if new listings (or scrape errors) → email via Resend
+  email via Resend, every run — new listings, "nothing new today", or
+  flagged sources/errors, whichever applies (see notify.py)
 ```
 
-No server — GitHub Actions runs `scraper.py` on schedule and shuts down.
+No server — GitHub Actions runs `scraper.py` on trigger and shuts down.
+
+The workflow has **no native GitHub `schedule:` trigger**. It was tried first
+and proved unreliable in practice: multi-hour delays, and some days it never
+fired at all, even after moving the cron off the exact hour (GitHub's own
+docs note exact-hour schedules are the most congested slot, but that wasn't
+enough here). **cron-job.org** (a free external cron service) now calls the
+workflow's `workflow_dispatch` REST endpoint daily instead — reliable because
+it's entirely outside GitHub's own scheduler. A Claude Code Remote Routine
+also checks in shortly after (07:25 UTC) as a backup, triggering a run only
+if cron-job.org's didn't land that day.
 
 ## Setup
 
@@ -34,8 +45,21 @@ No server — GitHub Actions runs `scraper.py` on schedule and shuts down.
    - `NOTIFY_TO_EMAIL` — where alerts should go (e.g. Pavlo's email)
    - `NOTIFY_FROM_EMAIL` *(optional)* — defaults to `Fair Monitor <onboarding@resend.dev>`
 
-3. That's it — the workflow (`.github/workflows/check-fairs.yml`) runs daily
-   automatically. You can also trigger it manually from the Actions tab
+3. **Set up the daily trigger via [cron-job.org](https://cron-job.org)** (free):
+   - Generate a GitHub fine-grained personal access token scoped to just this
+     repo, with **Actions: Read and write** permission (nothing else needed).
+   - Create a cronjob there:
+     - URL: `https://api.github.com/repos/Pavlentiy78/bramble-flame-fair-monitor/actions/workflows/check-fairs.yml/dispatches`
+     - Method: `POST`
+     - Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`,
+       `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json`
+     - Body: `{"ref": "claude/fair-monitor-scraper-lhs0a3"}`
+     - Schedule: daily, time zone **UTC** (not your local time zone — cron-job.org
+       defaults to whatever you picked at signup, so double check)
+   - A successful trigger returns `204 No Content`; you'll see the run appear
+     in the repo's Actions tab within a few seconds.
+
+4. You can also trigger a run manually any time from the Actions tab
    ("Run workflow").
 
 ## Calibrating selectors

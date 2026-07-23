@@ -1,12 +1,12 @@
 name: Check for new craft fairs
 
 on:
-  schedule:
-    # Not "0 7 * * *": GitHub explicitly documents that schedules on the
-    # exact hour are the most congested and most likely to be delayed. The
-    # one run this has had at "0 7" fired over 2 hours late (09:05 instead
-    # of 07:00). Off the hour is much more likely to land close to on time.
-    - cron: "7 7 * * *"
+  # No `schedule:` trigger here - GitHub's own cron proved unreliable over
+  # several days running (multi-hour delays, some days not firing at all,
+  # even after moving off the exact hour). cron-job.org now calls the
+  # REST API's workflow_dispatch endpoint daily instead - see README. A
+  # Claude Code Remote Routine (daily, 07:25 UTC) also checks in as a
+  # backup and triggers a run if cron-job.org's didn't land.
   workflow_dispatch:
     inputs:
       dump_html:
