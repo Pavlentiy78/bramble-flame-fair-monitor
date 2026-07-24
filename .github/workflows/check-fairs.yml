@@ -5,8 +5,10 @@ on:
   # several days running (multi-hour delays, some days not firing at all,
   # even after moving off the exact hour). cron-job.org now calls the
   # REST API's workflow_dispatch endpoint daily instead - see README. A
-  # Claude Code Remote Routine (daily, 07:25 UTC) also checks in as a
-  # backup and triggers a run if cron-job.org's didn't land.
+  # Claude Code Remote Routine (daily, 19:20 UTC) also checks in as a
+  # backup and triggers a run if cron-job.org's didn't land. Evening,
+  # not morning - stallandcraftcollective.co.uk was blocking automated
+  # requests specifically 07:00-10:00 UTC (see README "Why 19:00 UTC").
   workflow_dispatch:
     inputs:
       dump_html:
