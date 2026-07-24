@@ -6,7 +6,7 @@ fair shows up in Derbyshire / the East Midlands, so stalls don't get missed.
 ## How it works
 
 ```
-cron-job.org (daily HTTP POST, ~07:00 UTC)
+cron-job.org (daily HTTP POST, ~19:00 UTC)
         │  triggers workflow_dispatch via the GitHub REST API
         ▼
 GitHub Actions ── scraper.py ──reads──▶ sources.yaml (URLs + which parser to use)
@@ -31,8 +31,17 @@ docs note exact-hour schedules are the most congested slot, but that wasn't
 enough here). **cron-job.org** (a free external cron service) now calls the
 workflow's `workflow_dispatch` REST endpoint daily instead — reliable because
 it's entirely outside GitHub's own scheduler. A Claude Code Remote Routine
-also checks in shortly after (07:25 UTC) as a backup, triggering a run only
+also checks in shortly after (19:20 UTC) as a backup, triggering a run only
 if cron-job.org's didn't land that day.
+
+**Why 19:00 UTC and not the morning:** stallandcraftcollective.co.uk started
+blocking automated requests with a "One moment, please..." interstitial
+specifically during morning hours (confirmed on two separate mornings,
+07:00-10:00 UTC, all four of its sources affected each time) while the same
+requests at 19:00 UTC came back clean both times tested. The trigger was
+moved to evening on 24 July 2026 for exactly this reason. If the block starts
+recurring in the evening too, that theory is wrong and worth revisiting - the
+"0 listings" warning in the daily email (see `notify.py`) will show it.
 
 ## Setup
 
@@ -54,8 +63,9 @@ if cron-job.org's didn't land that day.
      - Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`,
        `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json`
      - Body: `{"ref": "claude/fair-monitor-scraper-lhs0a3"}`
-     - Schedule: daily, time zone **UTC** (not your local time zone — cron-job.org
-       defaults to whatever you picked at signup, so double check)
+     - Schedule: daily at **19:00**, time zone **UTC** (not your local time zone —
+       cron-job.org defaults to whatever you picked at signup, so double check).
+       Evening, not morning - see "Why 19:00 UTC" above.
    - A successful trigger returns `204 No Content`; you'll see the run appear
      in the repo's Actions tab within a few seconds.
 
