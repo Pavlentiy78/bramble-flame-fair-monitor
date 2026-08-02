@@ -14,8 +14,9 @@ import json
 import logging
 import re
 import sys
+import time
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 import requests
 import yaml
@@ -53,7 +54,30 @@ REQUEST_HEADERS = {
 }
 
 
+# stallandcraftcollective.co.uk started blocking with a "One moment,
+# please..." interstitial recurring intermittently (both morning and,
+# later, evening runs - 31 July and 2 Aug) even after moving the whole
+# job off the morning slot. Its 4 county pages were previously fetched
+# back-to-back within a few seconds of each other; spacing them out is
+# worth trying before resorting to something more invasive (rotating
+# headers, etc). Keyed by host so this doesn't slow down Stallfinder.
+MIN_REQUEST_INTERVAL_SECONDS = {
+    "stallandcraftcollective.co.uk": 8,
+}
+_last_request_at = {}
+
+
 def fetch(url):
+    host = urlparse(url).netloc.removeprefix("www.")
+    min_interval = MIN_REQUEST_INTERVAL_SECONDS.get(host)
+    if min_interval:
+        last_at = _last_request_at.get(host)
+        if last_at is not None:
+            wait = min_interval - (time.monotonic() - last_at)
+            if wait > 0:
+                time.sleep(wait)
+        _last_request_at[host] = time.monotonic()
+
     response = requests.get(url, headers=REQUEST_HEADERS, timeout=30)
     response.raise_for_status()
     return response
