@@ -1475,6 +1475,15 @@
     "url": "https://www.stallfinder.com/event/mayfield-village-show-118920/261013/",
     "venue": "Mayfield Recreational Association"
   },
+  "89d6dc8ec5221234128064911bdf3dce22206c727946edc61ada88119b12e950": {
+    "county": "South Yorkshire",
+    "date": "24/07/2027 to 25/07/2027",
+    "id": "89d6dc8ec5221234128064911bdf3dce22206c727946edc61ada88119b12e950",
+    "name": "Haxey Feast Steam Stunt and Jousting Show",
+    "source": "Stall & Craft Collective - South Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/haxey-feast-steam-stunt-and-jousting-show-57749-event",
+    "venue": "Willowfields"
+  },
   "8a742decf9aa0efd91a99ad15de816c328ed7396ef14c5466c06d3e4b238ce83": {
     "county": "Staffordshire",
     "date": "30-07-2026",
@@ -1636,6 +1645,15 @@
     "source": "Stallfinder - North Yorkshire",
     "url": "https://www.stallfinder.com/event/york-christmas-craft-gift-fair-market-belfrey-hall-117576/256176/",
     "venue": "Belfrey Hall"
+  },
+  "9711d062403bce9aa7c74391fdbe59537668b0d0088a860112dd549271dad067": {
+    "county": "South Yorkshire",
+    "date": "28/11/2026",
+    "id": "9711d062403bce9aa7c74391fdbe59537668b0d0088a860112dd549271dad067",
+    "name": "Haxey Doncaster light switch on",
+    "source": "Stall & Craft Collective - South Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/haxey-doncaster-light-switch-on-57751-event",
+    "venue": "Haxey Memorial Hall"
   },
   "974d889128b098d4adad6f8f3e628705054c54a38b35417da1044dc34fb4e2ce": {
     "county": "Staffordshire",
@@ -2725,6 +2743,15 @@
     "source": "Stallfinder - North Yorkshire",
     "url": "https://www.stallfinder.com/event/aldborough-boroughbridge-show-artisan-market/259870/",
     "venue": "Newby Hall"
+  },
+  "f247b25ff72f34cff86ab3195493bcf88b7f7efff38f52846a534f182c091fd6": {
+    "county": "South Yorkshire",
+    "date": "06/11/2026",
+    "id": "f247b25ff72f34cff86ab3195493bcf88b7f7efff38f52846a534f182c091fd6",
+    "name": "Doncaster Bonfire Night Drone Show",
+    "source": "Stall & Craft Collective - South Yorkshire",
+    "url": "https://www.stallandcraftcollective.co.uk/doncaster-bonfire-night-drone-show-57750-event",
+    "venue": "Willowfields"
   },
   "f48b051df43b152d652300600b9cbb1df9c04d776c08d05abd37ae3324bff79c": {
     "county": "North Yorkshire",
